@@ -1,0 +1,4 @@
+concurrent crawler
+inverted index
+trie structure - b+ tree
+predictive typing and autocorrect
