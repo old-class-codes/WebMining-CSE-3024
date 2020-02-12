@@ -1,1128 +1,1045 @@
-inferences, <id1,1,[301]>
-analyze, <id2,1,[628]>,<id1,1,[724]>
-campaign, <id1,1,[258]>
-semma, <id1,2,[661, 681]>
-preparation, <id1,3,[228, 1137, 1177]>
-actually, <id1,2,[697, 757]>
-international, <id1,4,[449, 485, 945, 975]>
-explorations, <id1,2,[482, 956]>
-korea, <id1,1,[1566]>
-consumers, <id1,1,[1299]>
-associated, <id2,1,[360]>,<id1,1,[1091]>
-refer, <id1,2,[286, 327]>
-records, <id1,2,[169, 173]>
-congress, <id1,1,[1343]>
-uncovers, <id1,1,[1138]>
-more, <id2,1,[318]>,<id1,1,[1385]>
-combining, <id2,1,[616]>,<id1,1,[1153]>
-sets, <id1,7,[7, 542, 587, 617, 727, 1119, 1227]>
-might, <id2,6,[300, 406, 472, 540, 554, 605]>,<id1,2,[211, 1163]>
-jdm, <id1,3,[1000, 1004, 1008]>
-property, <id1,1,[1459]>
-conference, <id1,7,[450, 486, 491, 946, 972, 974, 976]>
-principles, <id1,1,[1303]>
-defined, <id2,1,[452]>,<id1,1,[625]>
-see, <id1,1,[1631]>
-business, <id1,5,[108, 430, 1054, 1079, 1371]>
-curves, <id1,1,[896]>
-israel, <id1,1,[1563]>
-topic, <id1,1,[416]>
-raise, <id1,1,[1106]>
-involves, <id2,1,[737]>,<id1,4,[50, 185, 744, 1152]>
-metrics, <id1,1,[60]>
-case, <id1,1,[1588]>
-proprietary, <id1,1,[1621]>
-removes, <id1,1,[736]>
-violation, <id1,1,[1273]>
-works, <id2,2,[765, 796]>,<id1,1,[1435]>
-titled, <id1,1,[954]>
-reported, <id1,1,[666]>
-knowledge, <id2,4,[387, 431, 662, 980]>,<id1,12,[40, 76, 405, 411, 437, 453, 474, 503, 619, 798, 921, 935]>
-kdd, <id1,4,[44, 238, 484, 622]>
-analytics, <id1,3,[143, 205, 1021]>
-limit, <id1,1,[715]>
-uses, <id2,1,[625]>,<id1,4,[265, 838, 1367, 1597]>
-artificial, <id1,3,[104, 147, 593]>
-fishing, <id1,3,[283, 324, 360]>
-open, <id1,1,[1541]>
-rights, <id1,4,[1298, 1412, 1451, 1461]>
-remaining, <id1,1,[708]>
-using, <id2,1,[246]>,<id1,2,[186, 667]>
-icde, <id1,1,[971]>
-play, <id1,1,[1186]>
-give, <id1,1,[1358]>
-modified, <id1,1,[1216]>
-compiled, <id1,2,[1188, 1195]>
-reach, <id1,1,[1331]>
-misnomer, <id1,1,[72]>
-tools, <id2,3,[203, 685, 714]>,<id1,1,[117]>
-complexity, <id1,2,[61, 545]>
-visualization, <id1,1,[65]>
-overcome, <id1,1,[836]>
-usually, <id2,1,[894]>,<id1,2,[184, 595]>
-one, <id2,3,[506, 609, 964]>,<id1,2,[1270, 1601]>
-standard, <id2,1,[968]>,<id1,5,[633, 658, 992, 999, 1023]>
-necessary, <id1,1,[904]>
-fair, <id1,4,[1257, 1553, 1560, 1578]>
-referring, <id1,1,[144]>
-notable, <id1,1,[1073]>
-informed, <id1,2,[1359, 1390]>
-new, <id1,2,[311, 762]>
-anonymity, <id1,1,[1401]>
-uncover, <id1,2,[270, 695]>
-meet, <id1,2,[900, 912]>
-markup, <id1,1,[1026]>
-selling, <id2,1,[485]>,<id1,1,[1279]>
-online, <id1,1,[66]>
-personally, <id1,1,[1251]>
-investigating, <id1,1,[770]>
-validation, <id1,1,[645]>
-controlled, <id1,1,[1427]>
-conditions, <id1,1,[1511]>
-mostly, <id1,1,[121]>
-version, <id1,1,[779]>
-contexts, <id1,1,[1105]>
-input, <id1,1,[196]>
-forums, <id1,1,[445]>
-overridden, <id1,1,[1508]>
-summary, <id2,1,[52]>,<id1,1,[195]>
-uncovering, <id1,1,[582]>
-cases, <id1,1,[1104]>
-submissions, <id1,1,[498]>
-reliable, <id1,1,[299]>
-walgreens, <id1,1,[1275]>
-aliases, <id1,1,[356]>
-practice, <id1,3,[330, 353, 1373]>
-collected, <id2,1,[593]>,<id1,1,[1212]>
-industry, <id1,1,[991]>
-compromise, <id1,1,[1141]>
-without, <id2,1,[430]>,<id1,3,[333, 1010, 1438]>
-material, <id1,1,[124]>
-owner, <id1,1,[1441]>
-occurred, <id1,2,[514, 1235]>
-premier, <id1,1,[923]>
-bases, <id1,1,[980]>
-means, <id1,1,[1555]>
-the, <id2,16,[45, 252, 409, 433, 482, 509, 556, 592, 666, 733, 839, 875, 896, 909, 943, 951]>,<id1,28,[68, 110, 152, 242, 277, 335, 363, 483, 499, 509, 526, 618, 655, 730, 795, 846, 881, 922, 1099, 1181, 1248, 1354, 1421, 1480, 1512, 1524, 1605, 1617]>
-for, <id2,1,[794]>,<id1,5,[206, 374, 857, 1014, 1580]>
-workstation, <id1,1,[389]>
-predict, <id1,1,[758]>
-lawsuit, <id1,1,[1277]>
-europe, <id1,3,[1290, 1447, 1523]>
-world, <id2,3,[8, 674, 687]>,<id1,1,[1484]>
-users, <id2,3,[173, 448, 699]>,<id1,1,[1308]>
-companies, <id2,5,[262, 275, 467, 510, 516]>,<id1,3,[1284, 1289, 1311]>
-exploiting, <id1,1,[601]>
-happening, <id1,1,[794]>
-would, <id2,1,[109]>,<id1,2,[867, 876]>
-inadvertently, <id1,1,[1245]>
-exposed, <id1,1,[1326]>
-economic, <id1,1,[349]>
-journal, <id1,4,[469, 500, 507, 953]>
-storage, <id1,1,[537]>
-identifiable, <id1,1,[1252]>
-applying, <id1,1,[579]>
-sufficient, <id1,1,[792]>
-well, <id2,1,[720]>,<id1,2,[97, 1559]>
-approach, <id2,1,[734]>,<id1,1,[1392]>
-violates, <id2,1,[479]>,<id1,1,[1256]>
-even, <id2,1,[297]>,<id1,1,[1224]>
-connotations, <id1,1,[373]>
-time, <id2,1,[373]>,<id1,2,[376, 714]>
-since, <id2,1,[367]>,<id1,4,[381, 940, 949, 1007]>
-observations, <id1,1,[737]>
-proper, <id1,1,[774]>
-archaeology, <id1,1,[400]>
-key, <id1,1,[1022]>
-system, <id1,2,[102, 223]>
-once, <id1,1,[872]>
-amounts, <id1,1,[78]>
-pitch, <id1,1,[386]>
-professional, <id1,1,[924]>
-like, <id2,1,[544]>,<id1,1,[322]>
-became, <id1,3,[418, 428, 487]>
-aol, <id1,1,[1247]>
-addressed, <id1,1,[1341]>
-misused, <id1,1,[752]>
-libraries, <id1,1,[1537]>
-database, <id2,5,[124, 722, 761, 809, 828]>,<id1,11,[14, 51, 187, 369, 378, 387, 599, 1432, 1444, 1450, 1463]>
-negative, <id1,1,[362]>
-later, <id1,2,[465, 477]>
-neural, <id1,1,[563]>
-program, <id1,1,[1128]>
-produced, <id1,1,[803]>
-hypothesis, <id1,2,[334, 776]>
-patrons, <id1,1,[1274]>
-little, <id1,1,[766]>
-private, <id1,1,[1166]>
-european, <id1,4,[989, 1307, 1430, 1513]>
-independently, <id1,1,[1063]>
-defines, <id1,1,[637]>
-extracted, <id1,1,[1016]>
-behavior, <id2,2,[176, 338]>,<id1,2,[760, 1096]>
-directive, <id1,2,[1464, 1495]>
-regression, <id1,1,[524]>
-owners, <id2,1,[491]>,<id1,1,[1460]>
-buzzword, <id1,1,[85]>
-published, <id1,4,[347, 671, 947, 950]>
-etc, <id1,1,[407]>
-proceedings, <id1,1,[948]>
-threat, <id2,1,[608]>,<id1,1,[1182]>
-comes, <id1,1,[1185]>
-rule, <id2,1,[565]>,<id1,2,[178, 1387]>
-says, <id1,1,[1383]>
-tasks, <id1,1,[748]>
-other, <id1,1,[395]>
-reproduced, <id1,1,[761]>
-sequential, <id1,1,[180]>
-comprehensible, <id1,1,[33]>
-augmented, <id1,1,[550]>
-gap, <id1,1,[590]>
-strengthen, <id1,1,[1297]>
-centuries, <id1,1,[515]>
-desired, <id1,3,[855, 901, 913]>
-however, <id2,1,[611]>,<id1,8,[308, 424, 629, 662, 1056, 1223, 1300, 1490]>
-validity, <id2,2,[366, 931]>,<id1,1,[303]>
-awareness, <id1,1,[1127]>
-association, <id1,2,[177, 927]>
-on, <id1,1,[1465]>
-turn, <id1,2,[920, 1285]>
-overall, <id1,2,[23, 237]>
-correctly, <id1,1,[886]>
-there, <id2,2,[374, 829]>,<id1,1,[981]>
-include, <id2,1,[384]>,<id1,3,[398, 521, 962]>
-developed, <id2,1,[201]>,<id1,1,[1030]>
-rather, <id1,2,[1291, 1530]>
-including, <id2,1,[231]>,<id1,1,[103]>
-results, <id2,1,[240]>,<id1,4,[220, 644, 754, 769]>
-privacy, <id2,4,[418, 419, 507, 610]>,<id1,10,[1109, 1131, 1143, 1184, 1272, 1293, 1309, 1339, 1407, 1413]>
-books, <id1,1,[1593]>
-necessity, <id1,1,[1399]>
-prescription, <id1,1,[1280]>
-consequence, <id1,1,[1313]>
-updating, <id1,1,[67]>
-ranging, <id1,1,[357]>
-conferences, <id1,2,[959, 970]>
-facilitated, <id1,1,[1515]>
-aside, <id1,1,[45]>
-interpret, <id2,1,[706]>,<id1,1,[917]>
-step, <id1,6,[39, 48, 210, 235, 797, 916]>
-occur, <id1,2,[807, 1147]>
-incomprehensibility, <id1,1,[1394]>
-it, <id2,4,[18, 604, 773, 927]>,<id1,6,[83, 459, 588, 627, 819, 1206]>
-roc, <id1,1,[895]>
-snowden, <id1,1,[1315]>
-variety, <id1,1,[355]>
-bad, <id1,1,[329]>
-community, <id2,1,[220]>,<id1,3,[370, 423, 443]>
-uk, <id1,4,[1470, 1481, 1496, 1502]>
-common, <id2,1,[955]>,<id1,4,[716, 746, 820, 1145]>
-medicine, <id1,1,[1080]>
-laws, <id1,2,[1294, 1433]>
-legality, <id1,1,[1110]>
-law, <id2,1,[533]>,<id1,5,[1122, 1419, 1474, 1504, 1550]>
-deducible, <id1,1,[1168]>
-average, <id1,1,[1395]>
-possibly, <id1,1,[1156]>
-added, <id1,1,[133]>
-hipaa, <id1,4,[1353, 1355, 1374, 1409]>
-frequently, <id1,1,[86]>
-presiding, <id1,1,[1586]>
-language, <id2,1,[944]>,<id1,2,[1027, 1029]>
-set, <id2,1,[885]>,<id1,14,[30, 296, 689, 702, 732, 810, 827, 831, 840, 851, 870, 879, 1197, 1242]>
-called, <id1,2,[471, 833]>
-six, <id1,2,[638, 745]>
-pmml, <id1,1,[1028]>
-containing, <id1,1,[738]>
-ubiquity, <id1,1,[528]>
-solution, <id1,1,[1526]>
-citation, <id1,1,[1334]>
-efficiently, <id1,1,[612]>
-available, <id2,1,[731]>,<id1,4,[1071, 1608, 1616, 1620]>
-requires, <id1,2,[1135, 1356]>
-protected, <id1,1,[1462]>
-turned, <id1,1,[392]>
-while, <id1,1,[1083]>
-anomaly, <id1,1,[174]>
-recommended, <id1,1,[1207]>
-transformative, <id1,2,[1572, 1596]>
-project, <id1,2,[1592, 1599]>
-evaluate, <id2,1,[881]>,<id1,1,[893]>
-patterns, <id2,7,[7, 158, 369, 393, 522, 600, 982]>,<id1,21,[4, 75, 166, 192, 273, 304, 512, 519, 584, 696, 707, 802, 812, 825, 848, 875, 883, 899, 911, 919, 1140]>
-universities, <id1,1,[1535]>
-find, <id2,3,[276, 298, 978]>,<id1,2,[824, 1238]>
-applications, <id2,4,[166, 256, 447, 557]>,<id1,4,[1041, 1055, 1607, 1619]>
-based, <id2,4,[73, 293, 577, 779]>,<id1,1,[1241]>
-predictive, <id1,3,[204, 1020, 1024]>
-potentially, <id1,1,[1228]>
-google, <id1,2,[1583, 1590]>
-global, <id1,1,[1316]>
-pattern, <id2,2,[340, 898]>,<id1,1,[181]>
-revelation, <id1,1,[1250]>
-exception, <id1,3,[1479, 1487, 1497]>
-implications, <id1,1,[1089]>
-belong, <id1,1,[236]>
-exceptions, <id1,1,[1532]>
-accurate, <id1,1,[218]>
-fayyad, <id1,2,[461, 467]>
-made, <id2,2,[441, 595]>,<id1,1,[302]>
-economists, <id1,1,[319]>
-digital, <id1,1,[1069]>
-before, <id2,1,[961]>,<id1,1,[682]>
-appropriate, <id1,1,[151]>
-sponsorship, <id1,1,[458]>
-become, <id2,1,[827]>,<id1,1,[1217]>
-to, <id2,1,[851]>,<id1,1,[835]>
-practical, <id1,2,[114, 127]>
-result, <id2,3,[530, 572, 868]>,<id1,2,[229, 1176]>
-bridges, <id1,1,[589]>
-ramasamy, <id1,1,[462]>
-found, <id2,1,[790]>,<id1,2,[813, 1077]>
-portability, <id1,1,[1350]>
-legislation, <id2,1,[555]>,<id1,2,[1408, 1428]>
-exist, <id1,1,[1453]>
-seen, <id1,1,[193]>
-algorithms, <id2,3,[196, 539, 567]>,<id1,6,[568, 611, 685, 806, 816, 823]>
-edward, <id1,1,[1314]>
-society, <id2,1,[258]>,<id1,2,[1494, 1539]>
-output, <id1,2,[853, 856]>
-unusual, <id1,1,[172]>
-structures, <id2,1,[799]>,<id1,1,[64]>
-several, <id2,1,[830]>,<id1,3,[668, 888, 1239]>
-theorem, <id1,1,[523]>
-practices, <id2,1,[553]>,<id1,2,[1259, 1405]>
-advise, <id1,1,[1129]>
-allows, <id1,1,[1498]>
-these, <id2,3,[349, 552, 708]>,<id1,2,[191, 306]>
-interchangeably, <id1,1,[440]>
-originally, <id1,2,[125, 1204]>
-reporting, <id1,1,[231]>
-popular, <id1,2,[419, 429]>
-mining, <id2,47,[1, 4, 16, 49, 60, 66, 78, 91, 102, 121, 134, 141, 144, 147, 150, 153, 181, 195, 200, 210, 223, 255, 322, 356, 380, 394, 398, 416, 521, 538, 590, 624, 641, 647, 652, 655, 656, 724, 736, 752, 817, 903, 907, 920, 942, 963, 976]>,<id1,73,[1, 17, 37, 71, 81, 113, 132, 155, 179, 182, 209, 234, 247, 264, 289, 338, 366, 379, 388, 394, 427, 436, 452, 473, 493, 502, 577, 636, 643, 657, 674, 684, 694, 729, 743, 750, 805, 815, 822, 843, 860, 907, 938, 961, 964, 986, 995, 998, 1032, 1040, 1050, 1066, 1076, 1086, 1092, 1102, 1115, 1134, 1173, 1283, 1404, 1424, 1434, 1437, 1455, 1477, 1489, 1500, 1520, 1557, 1571, 1604, 1624]>
-provide, <id2,3,[697, 701, 726]>,<id1,2,[596, 1363]>
-ethical, <id2,2,[411, 586]>,<id1,2,[1088, 1097]>
-individuals, <id2,1,[551]>,<id1,6,[1201, 1219, 1234, 1240, 1357, 1396]>
-very, <id1,1,[977]>
-montreal, <id1,1,[456]>
-azevedo, <id1,1,[677]>
-lovell, <id1,2,[345, 351]>
-enough, <id1,3,[705, 710, 1230]>
-agreement, <id1,2,[1322, 1332]>
-subsequently, <id1,1,[903]>
-part, <id1,3,[232, 1582, 1595]>
-identification, <id1,2,[1165, 1233]>
-cause, <id2,1,[407]>,<id1,2,[1189, 1262]>
-essential, <id1,1,[723]>
-volume, <id1,1,[275]>
-web, <id2,53,[0, 10, 17, 47, 53, 55, 58, 64, 76, 80, 87, 89, 97, 107, 115, 128, 133, 139, 142, 145, 148, 159, 172, 177, 179, 198, 208, 221, 320, 354, 378, 396, 414, 622, 632, 636, 639, 645, 650, 653, 663, 676, 689, 718, 732, 735, 750, 816, 822, 825, 919, 925, 959]>,<id1,1,[1436]>
-manipulation, <id1,1,[538]>
-resulting, <id1,1,[852]>
-withdrawn, <id1,1,[1009]>
-book, <id1,2,[111, 1584]>
-power, <id1,1,[530]>
-networks, <id1,1,[564]>
-introduced, <id2,1,[859]>,<id1,1,[1486]>
-thus, <id2,2,[312, 446]>,<id1,1,[790]>
-raised, <id1,1,[1130]>
-press, <id1,1,[431]>
-phrase, <id1,1,[377]>
-vector, <id2,2,[834, 843]>,<id1,1,[574]>
-field, <id1,3,[508, 560, 926]>
-computing, <id1,1,[928]>
-aahc, <id1,1,[1384]>
-licenses, <id1,2,[1609, 1622]>
-various, <id1,1,[1157]>
-strong, <id2,1,[564]>,<id1,1,[1292]>
-inference, <id1,1,[57]>
-application, <id2,3,[2, 151, 615]>,<id1,2,[98, 1612]>
-theme, <id1,1,[632]>
-newsletter, <id1,1,[480]>
-importantly, <id1,1,[1386]>
-businesses, <id1,1,[1426]>
-show, <id2,1,[381]>,<id1,1,[648]>
-proliferation, <id1,1,[527]>
-provided, <id1,1,[1286]>
-focus, <id1,1,[1525]>
-prevent, <id1,1,[793]>
-structure, <id2,20,[40, 48, 63, 65, 70, 77, 90, 96, 101, 105, 120, 146, 623, 631, 640, 646, 651, 669, 804, 821]>,<id1,1,[34]>
-cluster, <id1,2,[170, 565]>
-company, <id2,2,[303, 591]>,<id1,2,[385, 1278]>
-exchanging, <id1,1,[1015]>
-aware, <id1,1,[1209]>
-overfitting, <id1,2,[784, 834]>
-analysis, <id2,2,[332, 899]>,<id1,14,[38, 47, 95, 142, 158, 171, 200, 245, 249, 525, 548, 566, 1161, 1180]>
-work, <id2,1,[190]>,<id1,1,[1575]>
-emotional, <id1,1,[1264]>
-bear, <id1,1,[765]>
-applies, <id1,1,[1416]>
+exploration, <id1,2,[482, 956]>
 data, <id2,34,[3, 25, 152, 160, 168, 186, 194, 368, 403, 435, 440, 469, 474, 487, 494, 501, 512, 536, 589, 594, 598, 620, 638, 660, 723, 730, 768, 769, 795, 902, 906, 929, 933, 975]>,<id1,135,[0, 6, 16, 29, 36, 52, 55, 70, 79, 82, 89, 112, 131, 141, 154, 161, 168, 197, 208, 215, 225, 227, 233, 244, 246, 248, 261, 263, 276, 280, 282, 284, 288, 295, 315, 323, 325, 332, 337, 365, 393, 399, 426, 435, 451, 472, 492, 501, 513, 520, 535, 541, 547, 553, 576, 586, 603, 616, 635, 642, 653, 656, 673, 683, 688, 693, 699, 701, 718, 719, 721, 726, 728, 734, 741, 742, 749, 764, 800, 804, 809, 814, 821, 830, 841, 842, 859, 906, 937, 960, 963, 969, 979, 985, 994, 997, 1031, 1039, 1049, 1065, 1070, 1075, 1085, 1101, 1114, 1118, 1133, 1136, 1148, 1150, 1154, 1167, 1172, 1178, 1187, 1190, 1196, 1203, 1211, 1213, 1226, 1282, 1287, 1324, 1400, 1402, 1423, 1446, 1454, 1488, 1519, 1603, 1623, 1626, 1630]>
-legitimate, <id1,1,[865]>
-make, <id2,3,[113, 514, 558]>,<id1,1,[1164]>
-regulatory, <id1,1,[1346]>
-general, <id2,1,[876]>,<id1,2,[137, 829]>
-insurance, <id1,1,[1349]>
-science, <id1,4,[21, 558, 958, 1081]>
-purposes, <id2,1,[477]>,<id1,3,[1124, 1179, 1501]>
-licensing, <id1,1,[1529]>
-founding, <id1,1,[476]>
-conducted, <id1,2,[647, 679]>
-consent, <id2,1,[432]>,<id1,2,[1360, 1391]>
-effectiveness, <id1,1,[256]>
-original, <id1,1,[1574]>
-experimentation, <id1,1,[358]>
-positive, <id1,2,[359, 372]>
-exploitation, <id1,1,[1310]>
-methodology, <id1,2,[649, 651]>
-subspace, <id1,1,[1060]>
-accountability, <id1,1,[1351]>
-biotech, <id1,1,[1370]>
-pure, <id1,1,[1445]>
-related, <id2,1,[189]>,<id1,1,[278]>
-intelligence, <id1,4,[105, 109, 148, 594]>
-dependencies, <id1,1,[176]>
-contain, <id1,2,[706, 1229]>
-legal, <id1,3,[1442, 1527, 1568]>
-hnc, <id1,1,[383]>
-not, <id1,1,[811]>
-dramatically, <id1,1,[533]>
-standards, <id2,1,[587]>,<id1,3,[902, 914, 984]>
-effectively, <id1,1,[1305]>
-subfield, <id1,1,[19]>
-specially, <id1,1,[559]>
-noise, <id1,1,[739]>
-harbor, <id1,1,[1302]>
-learned, <id1,5,[847, 874, 898, 910, 918]>
-quantities, <id1,1,[160]>
-se, <id1,1,[1175]>
-hypotheses, <id1,3,[253, 312, 772]>
-together, <id1,1,[1155]>
-goal, <id2,1,[46]>,<id1,3,[24, 73, 1388]>
-emails, <id1,1,[866]>
-researchers, <id2,1,[711]>,<id1,3,[390, 670, 1536]>
-suggests, <id1,1,[1044]>
-processes, <id1,1,[1003]>
-cover, <id1,1,[1058]>
-mathematical, <id1,1,[597]>
-difference, <id1,1,[243]>
-major, <id1,1,[444]>
-surveillance, <id1,2,[1082, 1317]>
-considered, <id2,3,[187, 420, 517]>,<id1,1,[328]>
-aaai, <id1,1,[457]>
-appeared, <id1,1,[367]>
-decision, <id1,4,[100, 221, 569, 571]>
-must, <id1,2,[690, 703]>
-interesting, <id2,1,[156]>,<id1,1,[165]>
-change, <id1,1,[905]>
-article, <id1,2,[346, 1369]>
-started, <id1,3,[447, 455, 478]>
-primary, <id1,2,[488, 505]>
-states, <id1,1,[1338]>
-classify, <id2,1,[248]>,<id1,1,[887]>
-named, <id1,2,[126, 659]>
-reviews, <id1,1,[672]>
-judge, <id1,1,[1587]>
-large, <id1,8,[5, 77, 139, 159, 274, 585, 704, 978]>
-code, <id2,4,[945, 954, 967, 973]>,<id1,1,[1614]>
-grown, <id1,1,[543]>
-phases, <id1,2,[639, 788]>
-indicated, <id1,1,[1267]>
-future, <id1,2,[759, 1366]>
-contrast, <id1,1,[262]>
-information, <id2,18,[14, 33, 83, 127, 214, 422, 613, 661, 672, 703, 715, 749, 758, 770, 813, 886, 891, 917]>,<id1,17,[26, 32, 90, 401, 403, 1093, 1126, 1139, 1231, 1253, 1258, 1281, 1362, 1406, 1493, 1627, 1629]>
-masquerades, <id1,1,[354]>
-extract, <id2,1,[212]>,<id1,2,[25, 162]>
-exchange, <id1,1,[1036]>
-valid, <id1,1,[818]>
-licences, <id1,1,[1522]>
-workshop, <id1,1,[415]>
-commission, <id1,1,[1514]>
-variations, <id1,1,[631]>
-sigmod, <id1,1,[973]>
-statistics, <id2,1,[780]>,<id1,4,[13, 22, 96, 592]>
-rules, <id1,1,[572]>
-obligations, <id1,1,[1144]>
-databases, <id1,4,[42, 413, 606, 621]>
-arise, <id1,1,[786]>
-second, <id1,1,[1482]>
-high, <id2,1,[585]>,<id1,1,[1052]>
-this, <id2,8,[99, 118, 234, 341, 497, 569, 582, 845]>,<id1,5,[183, 832, 1171, 1260, 1397]>
-increasing, <id2,1,[504]>,<id1,1,[529]>
-controls, <id1,1,[1347]>
-uthurusamy, <id1,1,[463]>
-interest, <id1,1,[932]>
-bodily, <id1,1,[1265]>
-economist, <id1,1,[343]>
-per, <id1,1,[1174]>
-dredging, <id1,2,[281, 326]>
-simple, <id1,1,[778]>
-background, <id1,1,[598]>
-clandestine, <id1,1,[271]>
-simplified, <id1,1,[640]>
-generally, <id2,1,[700]>,<id1,1,[371]>
-review, <id1,2,[348, 1468]>
-execute, <id1,1,[607]>
-around, <id1,1,[368]>
-anonymized, <id1,1,[1225]>
-size, <id1,1,[544]>
-population, <id1,1,[294]>
-longstanding, <id1,1,[1379]>
-supported, <id1,1,[1035]>
-discoveries, <id1,1,[556]>
-previously, <id1,1,[163]>
-trees, <id1,1,[570]>
-areas, <id2,1,[193]>,<id1,1,[1418]>
-gregory, <id1,1,[408]>
-pharmaceutical, <id1,1,[1288]>
-process, <id2,2,[342, 570]>,<id1,11,[2, 43, 239, 578, 623, 634, 641, 675, 789, 987, 993]>
-cross, <id2,1,[888]>,<id1,1,[990]>
-wider, <id1,1,[808]>
-commercial, <id1,1,[1117]>
-facilitates, <id1,1,[1160]>
-examples, <id1,1,[1074]>
-annual, <id1,1,[944]>
-digitization, <id1,1,[1598]>
-management, <id2,2,[814, 938]>,<id1,2,[53, 600]>
-hidden, <id1,2,[272, 583]>
-define, <id1,1,[983]>
-questions, <id2,1,[364]>,<id1,1,[1107]>
-teams, <id1,1,[669]>
-additional, <id2,2,[335, 612]>,<id1,1,[240]>
-settlement, <id1,1,[1585]>
-family, <id1,1,[1410]>
-enforcement, <id1,1,[1123]>
-transform, <id2,2,[824, 971]>,<id1,1,[31]>
-marketing, <id2,1,[238]>,<id1,2,[134, 257]>
-apparent, <id1,1,[1170]>
-automatic, <id1,1,[157]>
-individual, <id2,4,[424, 461, 576, 603]>,<id1,2,[1183, 1268]>
-indicates, <id1,1,[352]>
-health, <id1,1,[1348]>
-sigkdd, <id1,4,[479, 481, 939, 955]>
-harm, <id1,1,[1266]>
-snooping, <id1,2,[285, 361]>
-subject, <id1,1,[1457]>
-multivariate, <id1,1,[725]>
-aspects, <id1,1,[54]>
-example, <id1,6,[201, 207, 858, 988, 1059, 1581]>
-leave, <id1,1,[1544]>
-extracting, <id1,1,[1628]>
-appear, <id1,1,[755]>
-necessarily, <id1,1,[817]>
-efforts, <id1,2,[982, 1295]>
-educational, <id1,1,[1411]>
-lawful, <id1,2,[1577, 1594]>
-testing, <id1,1,[777]>
-amount, <id2,1,[500]>,<id1,1,[260]>
-source, <id1,2,[717, 1613]>
-involving, <id2,1,[413]>,<id1,1,[8]>
-according, <id2,1,[634]>,<id1,2,[1208, 1368]>
-use, <id2,5,[473, 541, 561, 776, 974]>,<id1,8,[35, 287, 767, 1019, 1422, 1554, 1561, 1579]>
-identified, <id1,1,[1222]>
-dataset, <id1,1,[254]>
-miner, <id1,1,[1191]>
-short, <id1,1,[375]>
-intention, <id1,1,[581]>
-highest, <id1,1,[489]>
-stored, <id1,1,[604]>
-warehouse, <id1,1,[722]>
-clustering, <id2,1,[443]>,<id1,1,[1061]>
-recommendation, <id2,1,[348]>,<id1,1,[1466]>
-research, <id2,1,[764]>,<id1,4,[446, 496, 506, 1381]>
-publishers, <id1,1,[1543]>
-applicable, <id1,1,[791]>
-support, <id1,3,[101, 222, 573]>
-fully, <id1,1,[1325]>
-protection, <id1,2,[1378, 1389]>
-academic, <id1,2,[442, 952]>
-america, <id1,1,[1558]>
-accuracy, <id2,1,[914]>,<id1,1,[882]>
-act, <id2,1,[742]>,<id1,2,[1352, 1414]>
-leading, <id1,2,[650, 1254]>
-attempts, <id1,1,[1330]>
-task, <id1,2,[156, 1051]>
-biannual, <id1,1,[951]>
-level, <id2,2,[72, 728]>,<id1,1,[1393]>
-consequently, <id1,1,[391]>
-computer, <id1,5,[20, 99, 531, 557, 957]>
-cleaned, <id1,1,[733]>
-extraction, <id2,2,[657, 871]>,<id1,5,[74, 80, 93, 406, 511]>
-unintentionally, <id1,1,[751]>
-identify, <id2,2,[560, 966]>,<id1,2,[212, 1199]>
-present, <id1,4,[698, 828, 967, 1365]>
-distinguish, <id1,1,[863]>
-stages, <id1,1,[626]>
-following, <id1,3,[1210, 1606, 1618]>
-hosted, <id1,1,[943]>
-content, <id2,10,[42, 59, 143, 346, 654, 665, 751, 923, 937, 939]>,<id1,4,[1476, 1499, 1556, 1570]>
-public, <id1,1,[1610]>
-statistical, <id1,4,[268, 300, 775, 889]>
-agency, <id1,1,[1329]>
-learning, <id1,12,[12, 107, 116, 123, 129, 150, 203, 267, 422, 562, 609, 782]>
-mart, <id1,1,[720]>
-dmg, <id1,2,[1034, 1064]>
-expose, <id1,1,[1306]>
-newly, <id1,1,[1194]>
-prediction, <id1,2,[219, 1046]>
-used, <id2,7,[103, 211, 402, 426, 838, 895, 928]>,<id1,14,[199, 216, 250, 309, 320, 339, 380, 397, 439, 652, 686, 892, 1067, 1103]>
-communities, <id1,1,[432]>
-peoples, <id1,1,[1095]>
-search, <id2,1,[683]>,<id1,1,[1243]>
-also, <id2,3,[92, 351, 375]>,<id1,7,[49, 84, 966, 1162, 1215, 1505, 1615]>
-relation, <id1,1,[1094]>
-trademarked, <id1,1,[382]>
-histories, <id1,1,[1244]>
-quality, <id1,1,[490]>
-technology, <id2,6,[228, 235, 247, 357, 382, 401]>,<id1,1,[532]>
-copyright, <id1,6,[1431, 1440, 1449, 1473, 1503, 1549]>
-miners, <id1,1,[654]>
-similarly, <id1,1,[340]>
-studies, <id2,1,[188]>,<id1,1,[350]>
-direct, <id1,1,[546]>
-verify, <id1,1,[801]>
-digitisation, <id1,1,[1591]>
-government, <id2,2,[232, 244]>,<id1,2,[1116, 1471]>
-reasons, <id1,1,[135]>
-covers, <id1,2,[120, 1045]>
-body, <id1,1,[925]>
-readily, <id1,1,[1221]>
-polls, <id1,2,[646, 660]>
-today, <id1,1,[1072]>
-ways, <id2,1,[831]>,<id1,1,[1100]>
-term, <id2,1,[853]>,<id1,8,[69, 130, 336, 364, 410, 417, 425, 1084]>
-increasingly, <id1,1,[549]>
-performing, <id1,1,[773]>
-collection, <id1,3,[92, 226, 536]>
-steps, <id1,2,[241, 908]>
-sources, <id2,2,[44, 673]>,<id1,1,[1158]>
-java, <id1,2,[119, 996]>
-rate, <id1,1,[495]>
-offer, <id2,1,[334]>,<id1,1,[1376]>
-statisticians, <id1,1,[318]>
-comparison, <id1,1,[680]>
-greater, <id1,1,[1377]>
-development, <id2,1,[738]>,<id1,1,[1001]>
-representatives, <id1,1,[1534]>
-ability, <id1,1,[539]>
-aided, <id1,1,[555]>
-exists, <id1,1,[628]>
-classes, <id1,1,[747]>
-intellectual, <id1,1,[1458]>
-taiwan, <id1,1,[1564]>
-kind, <id2,1,[184]>,<id1,1,[194]>
-paper, <id1,1,[497]>
-bayes, <id1,1,[522]>
-multiple, <id1,1,[213]>
-united, <id1,1,[1337]>
-concise, <id1,1,[709]>
-scale, <id1,1,[140]>
-format, <id1,1,[1037]>
-different, <id2,5,[43, 86, 137, 476, 755]>,<id1,1,[787]>
-importance, <id2,1,[848]>,<id1,1,[1053]>
-supplant, <id1,1,[1573]>
-compared, <id2,1,[949]>,<id1,1,[854]>
-mined, <id1,1,[711]>
-small, <id1,1,[298]>
-analyzing, <id2,1,[390]>,<id1,3,[255, 331, 1625]>
-people, <id2,1,[456]>,<id1,1,[665]>
-training, <id2,1,[791]>,<id1,2,[826, 869]>
-regardless, <id1,1,[259]>
-limitations, <id1,1,[1531]>
-intersection, <id1,1,[10]>
-automated, <id2,2,[21, 680]>,<id1,1,[552]>
-intelligent, <id2,2,[713, 717]>,<id1,1,[27]>
-under, <id2,1,[865]>,<id1,1,[1429]>
-launched, <id1,1,[468]>
-algorithm, <id2,1,[877]>,<id1,3,[844, 861, 894]>
-confidentiality, <id1,1,[1142]>
-missing, <id1,1,[740]>
-methods, <id2,1,[900]>,<id1,9,[9, 28, 146, 290, 307, 517, 580, 614, 890]>
-indexed, <id1,1,[605]>
-discovered, <id1,2,[63, 305]>
-way, <id2,1,[385]>,<id1,4,[342, 602, 1146, 1159]>
-first, <id1,2,[414, 448]>
-trying, <id1,1,[862]>
-text, <id2,3,[786, 901, 962]>,<id1,2,[1518, 1602]>
-acceptance, <id1,1,[494]>
-commonly, <id1,1,[624]>
-stalled, <id1,1,[1006]>
-viewed, <id1,2,[1567, 1576]>
-target, <id2,1,[291]>,<id1,3,[687, 700, 731]>
-interdisciplinary, <id1,1,[18]>
-indirect, <id1,1,[551]>
-trained, <id1,4,[845, 868, 873, 880]>
-wherever, <id1,1,[1068]>
-due, <id1,1,[1491]>
-week, <id1,1,[1372]>
-in, <id1,5,[317, 441, 1112, 1269, 1336]>
-indices, <id1,1,[190]>
-countries, <id1,1,[1562]>
-limitation, <id1,1,[1478]>
-cleaning, <id1,1,[735]>
-acm, <id1,2,[930, 941]>
-topics, <id1,1,[965]>
-terms, <id1,6,[138, 279, 321, 396, 434, 1510]>
-coined, <id1,1,[409]>
-within, <id1,1,[712]>
-name, <id2,1,[12]>,<id1,1,[1043]>
-safe, <id1,1,[1301]>
-increased, <id2,1,[499]>,<id1,2,[534, 1319]>
-spatial, <id1,1,[189]>
-san, <id1,1,[384]>
-sample, <id1,3,[291, 763, 871]>
-applied, <id2,2,[197, 388]>,<id1,5,[87, 591, 615, 849, 877]>
-reaching, <id1,1,[1011]>
-extensions, <id1,1,[1057]>
-japan, <id1,1,[1485]>
-permission, <id1,1,[1439]>
-unknown, <id1,1,[164]>
-majority, <id1,1,[1425]>
-inadvertent, <id1,1,[1249]>
-spam, <id1,1,[864]>
-machinery, <id1,1,[929]>
-financial, <id1,1,[1263]>
-civil, <id1,1,[1538]>
+base, <id1,1,[980]>
+refer, <id1,2,[286, 327]>
+popular, <id1,2,[419, 429]>
+well, <id2,1,[720]>,<id1,2,[97, 1559]>
 allow, <id1,3,[1232, 1475, 1506]>
-problem, <id1,2,[780, 785]>
-underway, <id1,1,[1296]>
-allowing, <id1,1,[613]>
-us, <id1,2,[1342, 1548]>
-model, <id2,2,[333, 836]>,<id1,2,[56, 1025]>
-filed, <id1,1,[1276]>
-ruled, <id1,1,[1589]>
-especially, <id2,1,[428]>,<id1,1,[1202]>
-many, <id2,1,[225]>,<id1,6,[630, 664, 771, 885, 968, 1038]>
-underscores, <id1,1,[1398]>
-systems, <id2,2,[204, 741]>,<id1,1,[15]>
-discovery, <id2,1,[681]>,<id1,11,[41, 404, 412, 438, 454, 475, 504, 610, 620, 799, 936]>
-throughout, <id1,1,[1078]>
-larger, <id1,2,[293, 314]>
-draft, <id1,1,[1013]>
-addresses, <id1,1,[1420]>
-intended, <id1,1,[1364]>
-provider, <id1,1,[1255]>
-failed, <id1,1,[1333]>
-significant, <id1,1,[756]>
-stakeholder, <id1,2,[1516, 1545]>
-may, <id1,10,[198, 297, 891, 1087, 1214, 1220, 1375, 1448, 1452, 1547]>
-anyone, <id1,1,[1192]>
-models, <id2,1,[350]>,<id1,5,[252, 269, 676, 1017, 1047]>
-country, <id1,1,[1483]>
-sig, <id1,2,[934, 942]>
-as, <id2,3,[11, 808, 883]>,<id1,5,[540, 692, 1042, 1312, 1569]>
-processing, <id1,2,[91, 554]>
-warehousing, <id1,1,[94]>
-measured, <id1,1,[884]>
-early, <id1,1,[516]>
-obtain, <id1,1,[217]>
-group, <id2,1,[458]>,<id1,2,[933, 1033]>
-becomes, <id1,1,[1456]>
-neither, <id1,1,[224]>
-santos, <id1,1,[678]>
-successors, <id1,1,[1002]>
-instance, <id1,1,[1271]>
-groups, <id1,3,[167, 214, 1540]>
-particular, <id2,2,[217, 745]>,<id1,5,[1018, 1048, 1113, 1323, 1551]>
-needed, <id2,1,[874]>,<id1,1,[1335]>
-usama, <id1,2,[460, 466]>
-if, <id1,2,[897, 909]>
-where, <id1,1,[1443]>
-ai, <id2,1,[740]>,<id1,1,[420]>
-contractual, <id1,1,[1509]>
-machine, <id1,11,[11, 106, 115, 122, 128, 149, 202, 266, 421, 561, 781]>
-title, <id1,1,[1521]>
-test, <id1,5,[251, 313, 839, 850, 878]>
-security, <id1,2,[1121, 1328]>
-specific, <id2,4,[310, 327, 470, 519]>,<id1,2,[1200, 1417]>
-creating, <id1,1,[310]>
-released, <id1,1,[1246]>
-restriction, <id1,1,[1492]>
-ethics, <id1,1,[1111]>
-able, <id1,2,[1198, 1237]>
-displayed, <id1,1,[1600]>
-journalists, <id1,1,[1236]>
-discovering, <id2,1,[95]>,<id1,1,[3]>
-raw, <id1,1,[46]>
-total, <id1,1,[1125]>
-indiscretion, <id1,1,[1261]>
+quantity, <id1,1,[160]>
+exploiting, <id1,1,[601]>
+step, <id1,8,[39, 48, 210, 235, 241, 797, 908, 916]>
+noise, <id1,1,[739]>
+might, <id2,6,[300, 406, 472, 540, 554, 605]>,<id1,2,[211, 1163]>
+automated, <id2,2,[21, 680]>,<id1,1,[552]>
 discussion, <id1,2,[1320, 1517]>
-dialogue, <id1,1,[1546]>
-led, <id1,2,[1469, 1533]>
-actual, <id1,3,[145, 153, 608]>
-south, <id1,1,[1565]>
-year, <id1,1,[464]>
-harvesting, <id1,1,[402]>
-considerations, <id1,2,[58, 62]>
-anonymous, <id2,3,[442, 515, 596]>,<id1,2,[1205, 1218]>
-passage, <id1,1,[1345]>
-special, <id1,1,[931]>
-provision, <id1,2,[1507, 1552]>
-produce, <id1,1,[753]>
-otherwise, <id1,2,[1098, 1169]>
+protection, <id1,2,[1378, 1389]>
+anyone, <id1,1,[1192]>
+se, <id1,1,[1175]>
+economist, <id1,2,[319, 343]>
+pharmaceutical, <id1,1,[1288]>
+remove, <id1,1,[736]>
+question, <id2,1,[364]>,<id1,1,[1107]>
+concern, <id2,2,[408, 466]>,<id1,2,[1132, 1340]>
+artificial, <id1,3,[104, 147, 593]>
+supplant, <id1,1,[1573]>
+indiscretion, <id1,1,[1261]>
 aggregation, <id1,3,[1149, 1151, 1403]>
-regarding, <id2,1,[365]>,<id1,2,[1108, 1361]>
-techniques, <id2,8,[5, 125, 154, 362, 649, 725, 908, 977]>,<id1,2,[118, 188]>
-manual, <id1,1,[510]>
+original, <id1,1,[1574]>
+turn, <id1,2,[920, 1285]>
+sponsorship, <id1,1,[458]>
+bridge, <id1,1,[589]>
+warehousing, <id1,1,[94]>
+protected, <id1,1,[1462]>
+anomaly, <id1,1,[174]>
+application, <id2,7,[2, 151, 166, 256, 447, 557, 615]>,<id1,6,[98, 1041, 1055, 1607, 1612, 1619]>
+material, <id1,1,[124]>
+notable, <id1,1,[1073]>
 disclosure, <id1,1,[1318]>
-issue, <id2,1,[412]>,<id1,1,[1528]>
-regulations, <id1,1,[1380]>
-evaluation, <id1,1,[837]>
-interpretation, <id1,1,[230]>
-genetic, <id1,1,[567]>
-assembled, <id1,1,[691]>
-arena, <id1,1,[1382]>
-amend, <id1,1,[1472]>
-detection, <id1,1,[175]>
-kluwer, <id1,1,[470]>
-often, <id1,3,[136, 768, 1090]>
-machines, <id1,1,[575]>
-times, <id2,1,[855]>,<id1,1,[663]>
-parts, <id1,1,[292]>
-ferpa, <id1,1,[1415]>
-identifying, <id2,1,[259]>,<id1,1,[518]>
+vector, <id2,2,[834, 843]>,<id1,1,[574]>
+happening, <id1,1,[794]>
+state, <id1,1,[1338]>
+archaeology, <id1,1,[400]>
+becomes, <id1,1,[1456]>
+sigmod, <id1,1,[973]>
+management, <id2,2,[814, 938]>,<id1,2,[53, 600]>
+overall, <id1,2,[23, 237]>
+reliable, <id1,1,[299]>
+united, <id1,1,[1337]>
+longstanding, <id1,1,[1379]>
+proprietary, <id1,1,[1621]>
+online, <id1,1,[66]>
+cleaning, <id1,1,[735]>
 currently, <id1,2,[433, 1304]>
-form, <id2,1,[438]>,<id1,1,[88]>
-hargreaves, <id1,1,[1467]>
-proposed, <id1,1,[1062]>
-access, <id2,1,[339]>,<id1,3,[1193, 1542, 1611]>
+frequently, <id1,1,[86]>
+particular, <id2,2,[217, 745]>,<id1,5,[1018, 1048, 1113, 1323, 1551]>
+variation, <id1,1,[631]>
+index, <id1,1,[190]>
+gregory, <id1,1,[408]>
+per, <id1,1,[1174]>
+provider, <id1,1,[1255]>
+however, <id2,1,[611]>,<id1,8,[308, 424, 629, 662, 1056, 1223, 1300, 1490]>
+inadvertent, <id1,1,[1249]>
+fayyad, <id1,2,[461, 467]>
+conducted, <id1,2,[647, 679]>
+special, <id1,1,[931]>
+transform, <id2,2,[824, 971]>,<id1,1,[31]>
+power, <id1,1,[530]>
+spam, <id1,1,[864]>
+specially, <id1,1,[559]>
+proceeding, <id1,1,[948]>
+produced, <id1,1,[803]>
+commission, <id1,1,[1514]>
+effectiveness, <id1,1,[256]>
+larger, <id1,2,[293, 314]>
+remaining, <id1,1,[708]>
+roc, <id1,1,[895]>
+readily, <id1,1,[1221]>
+spatial, <id1,1,[189]>
+sample, <id1,3,[291, 763, 871]>
+unintentionally, <id1,1,[751]>
+correctly, <id1,1,[886]>
+prescription, <id1,1,[1280]>
+regression, <id1,1,[524]>
+century, <id1,1,[515]>
+displayed, <id1,1,[1600]>
+overfitting, <id1,2,[784, 834]>
+japan, <id1,1,[1485]>
+sig, <id1,2,[934, 942]>
+annual, <id1,1,[944]>
+interdisciplinary, <id1,1,[18]>
+grown, <id1,1,[543]>
+semma, <id1,2,[661, 681]>
+according, <id2,1,[634]>,<id1,2,[1208, 1368]>
+recommendation, <id2,1,[348]>,<id1,1,[1466]>
+digitisation, <id1,1,[1591]>
+public, <id1,1,[1610]>
+evaluate, <id2,1,[881]>,<id1,1,[893]>
+since, <id2,1,[367]>,<id1,4,[381, 940, 949, 1007]>
+miner, <id1,2,[654, 1191]>
 active, <id1,1,[1005]>
-acceptable, <id1,1,[713]>
-known, <id1,1,[783]>
-final, <id1,3,[796, 915, 1012]>
-revoke, <id1,1,[1321]>
-interestingness, <id1,1,[59]>
-populations, <id1,1,[316]>
-michael, <id1,1,[344]>
-critical, <id1,1,[341]>
-national, <id1,2,[1120, 1327]>
+act, <id2,1,[742]>,<id1,2,[1352, 1414]>
+global, <id1,1,[1316]>
+automatic, <id1,1,[157]>
+company, <id2,7,[262, 275, 303, 467, 510, 516, 591]>,<id1,5,[385, 1278, 1284, 1289, 1311]>
+purpose, <id2,3,[112, 471, 477]>,<id1,3,[1124, 1179, 1501]>
+usually, <id2,1,[894]>,<id1,2,[184, 595]>
+uncovering, <id1,1,[582]>
+reproduced, <id1,1,[761]>
+legitimate, <id1,1,[865]>
+compared, <id2,1,[949]>,<id1,1,[854]>
+industry, <id1,1,[991]>
+america, <id1,1,[1558]>
+kind, <id2,2,[184, 644]>,<id1,1,[194]>
+variety, <id1,1,[355]>
+related, <id2,1,[189]>,<id1,1,[278]>
+acceptance, <id1,1,[494]>
+cause, <id2,1,[407]>,<id1,2,[1189, 1262]>
+walgreens, <id1,1,[1275]>
+fully, <id1,1,[1325]>
+wider, <id1,1,[808]>
+masquerade, <id1,1,[354]>
+biotech, <id1,1,[1370]>
+search, <id2,1,[683]>,<id1,1,[1243]>
+theme, <id1,1,[632]>
+snowden, <id1,1,[1315]>
+summary, <id2,1,[52]>,<id1,1,[195]>
+started, <id1,3,[447, 455, 478]>
+regarding, <id2,1,[365]>,<id1,2,[1108, 1361]>
+strengthen, <id1,1,[1297]>
+processing, <id1,2,[91, 554]>
+south, <id1,1,[1565]>
+size, <id1,1,[544]>
+database, <id2,5,[124, 722, 761, 809, 828]>,<id1,15,[14, 42, 51, 187, 369, 378, 387, 413, 599, 606, 621, 1432, 1444, 1450, 1463]>
+change, <id1,1,[905]>
+stage, <id1,1,[626]>
+training, <id2,1,[791]>,<id1,2,[826, 869]>
+learning, <id1,12,[12, 107, 116, 123, 129, 150, 203, 267, 422, 562, 609, 782]>
+statistical, <id1,4,[268, 300, 775, 889]>
+produce, <id1,1,[753]>
+greater, <id1,1,[1377]>
+santos, <id1,1,[678]>
+leave, <id1,1,[1544]>
+research, <id2,2,[764, 775]>,<id1,4,[446, 496, 506, 1381]>
+reporting, <id1,1,[231]>
+neural, <id1,1,[563]>
+reaching, <id1,1,[1011]>
+compromise, <id1,1,[1141]>
+economic, <id1,1,[349]>
+many, <id2,1,[225]>,<id1,6,[630, 664, 771, 885, 968, 1038]>
+even, <id2,1,[297]>,<id1,1,[1224]>
 via, <id1,1,[1344]>
-concerns, <id2,1,[408]>,<id1,2,[1132, 1340]>
-pricing, <id2,1,[292]>
-space, <id2,2,[835, 844]>
-factors, <id2,1,[709]>
-concerned, <id2,1,[191]>
-three, <id2,1,[136]>
-unscrupulous, <id2,1,[619]>
-points, <id2,1,[756]>
-link, <id2,2,[39, 69]>
-focuses, <id2,1,[62]>
-hyperlinks, <id2,2,[71, 75]>
-relationships, <id2,1,[216]>
-attractive, <id2,1,[229]>
-captures, <id2,1,[169]>
-technically, <id2,1,[57]>
-much, <id2,1,[671]>
-facilitate, <id2,1,[122]>
-autonomously, <id2,1,[743]>
-insight, <id2,1,[285]>
-service, <id2,1,[574]>
-retrieval, <id2,3,[716, 759, 771]>
-gathered, <id2,1,[15]>
-commodity, <id2,1,[488]>
-customers, <id2,3,[279, 299, 317]>
-wide, <id2,3,[9, 675, 688]>
-aliweb, <id2,1,[694]>
-trade, <id2,2,[242, 492]>
-divided, <id2,2,[135, 642]>
-problems, <id2,1,[359]>
-extend, <id2,1,[721]>
-differentiated, <id2,1,[753]>
-encourages, <id2,1,[489]>
-seco, <id2,1,[206]>
-semantic, <id2,3,[213, 331, 386]>
-heterogeneity, <id2,1,[667]>
-reference, <id2,1,[131]>
-hyponymy, <id2,1,[215]>
-vista, <id2,1,[692]>
-lycos, <id2,1,[690]>
-evaluating, <id2,1,[879]>
-mutual, <id2,1,[890]>
-selection, <id2,1,[864]>
-permits, <id2,2,[28, 670]>
-terminology, <id2,1,[648]>
-realize, <id2,1,[847]>
-privilege, <id2,1,[575]>
-inaccuracies, <id2,1,[528]>
-requirements, <id2,1,[287]>
-score, <id2,1,[918]>
-comfort, <id2,1,[698]>
-kinds, <id2,1,[644]>
-english, <id2,1,[950]>
-inferred, <id2,1,[614]>
-topology, <id2,1,[74]>
-represent, <id2,2,[784, 832]>
-hz, <id2,1,[953]>
-alta, <id2,1,[691]>
-demonstrate, <id2,1,[352]>
-terrorism, <id2,1,[251]>
-collaborative, <id2,1,[347]>
-order, <id2,2,[161, 811]>
-preventing, <id2,1,[534]>
-behalf, <id2,1,[744]>
-better, <id2,4,[163, 264, 270, 812]>
-accessing, <id2,1,[126]>
-others, <id2,1,[696]>
-inside, <id2,1,[800]>
-benefit, <id2,1,[257]>
-characteristics, <id2,2,[459, 462]>
-needs, <id2,4,[165, 268, 273, 965]>
-tendency, <id2,1,[453]>
-address, <id2,1,[358]>
-sophisticated, <id2,1,[739]>
-contents, <id2,1,[526]>
-site, <id2,6,[54, 178, 496, 633, 823, 826]>
-odds, <id2,1,[892]>
-servers, <id2,1,[26]>
-outlined, <id2,1,[326]>
-offers, <id2,1,[309]>
-personalized, <id2,1,[237]>
-reasoning, <id2,1,[391]>
-verification, <id2,1,[932]>
-portals, <id2,1,[926]>
-judging, <id2,2,[449, 454]>
-similar, <id2,1,[904]>
-customer, <id2,7,[265, 269, 272, 286, 306, 311, 316]>
-depending, <id2,1,[183]>
-tries, <id2,2,[67, 819]>
-obtained, <id2,6,[370, 425, 434, 495, 597, 599]>
-subjective, <id2,1,[371]>
-always, <id2,1,[818]>
-back, <id2,1,[602]>
-logs, <id2,1,[37]>
-organize, <id2,1,[748]>
-server, <id2,1,[36]>
-lawsuits, <id2,1,[532]>
-analyzed, <id2,1,[436]>
-threats, <id2,1,[249]>
-organized, <id2,1,[31]>
-gb, <id2,1,[952]>
-faster, <id2,1,[274]>
-log, <id2,1,[209]>
-save, <id2,1,[280]>
-schema, <id2,2,[106, 132]>
-good, <id2,1,[110]>
-indexing, <id2,1,[684]>
-user, <id2,6,[218, 337, 344, 480, 621, 746]>
-condition, <id2,1,[866]>
-another, <id2,2,[93, 464]>
-benefits, <id2,2,[319, 383]>
-activities, <id2,2,[35, 261]>
-precision, <id2,1,[915]>
-frameworks, <id2,1,[328]>
-essentially, <id2,2,[224, 478]>
-category, <id2,1,[867]>
-utilized, <id2,1,[802]>
-legally, <id2,1,[524]>
-organization, <id2,2,[682, 729]>
-origin, <id2,1,[171]>
-lost, <id2,1,[421]>
-integration, <id2,1,[658]>
-website, <id2,2,[38, 490]>
-inner, <id2,1,[972]>
-constitute, <id2,1,[841]>
-nature, <id2,1,[405]>
-single, <id2,2,[781, 788]>
-demonstrated, <id2,1,[207]>
-production, <id2,1,[281]>
-clustered, <id2,1,[437]>
-corpus, <id2,1,[792]>
-acquired, <id2,1,[284]>
-ratio, <id2,1,[893]>
-maintained, <id2,1,[588]>
-researches, <id2,1,[775]>
-interpreting, <id2,1,[389]>
-volumes, <id2,1,[243]>
-situation, <id2,1,[583]>
-possible, <id2,1,[114]>
-could, <id2,1,[571]>
-release, <id2,3,[520, 527, 529]>
-software, <id2,1,[202]>
-similarity, <id2,1,[84]>
-utilize, <id2,1,[797]>
-provides, <id2,1,[343]>
-frequency, <id2,2,[854, 858]>
-component, <id2,1,[922]>
-integrity, <id2,1,[934]>
-predicting, <id2,1,[253]>
-reducing, <id2,1,[313]>
-personal, <id2,4,[404, 444, 486, 493]>
-profitability, <id2,1,[290]>
-understanding, <id2,1,[267]>
-corporations, <id2,1,[230]>
-retain, <id2,2,[278, 305]>
-important, <id2,2,[465, 921]>
-elements, <id2,1,[376]>
-obliged, <id2,1,[513]>
-issues, <id2,1,[400]>
-basis, <id2,1,[457]>
-serious, <id2,1,[531]>
-page, <id2,4,[41, 56, 116, 664]>
-confirmation, <id2,1,[930]>
-poses, <id2,1,[607]>
-invasion, <id2,1,[417]>
-typically, <id2,1,[837]>
-unique, <id2,1,[377]>
-reports, <id2,1,[27]>
-buy, <id2,1,[511]>
-agencies, <id2,2,[233, 245]>
-treating, <id2,1,[455]>
-hard, <id2,1,[559]>
-traded, <id2,1,[503]>
-by, <id2,1,[860]>
-proposes, <id2,1,[13]>
-religion, <id2,2,[547, 579]>
-orientation, <id2,2,[549, 581]>
-collecting, <id2,1,[468]>
-merits, <id2,2,[463, 912]>
-prompted, <id2,1,[710]>
-metacrawler, <id2,1,[695]>
-profiles, <id2,3,[294, 439, 445]>
-losing, <id2,1,[315]>
-browser, <id2,1,[34]>
-direction, <id2,1,[94]>
-affected, <id2,1,[870]>
-phase, <id2,1,[395]>
-codes, <id2,1,[958]>
-denial, <id2,1,[573]>
-competitor, <id2,1,[302]>
-infer, <id2,1,[820]>
-type, <id2,3,[100, 119, 635]>
-agents, <id2,1,[719]>
-separate, <id2,1,[618]>
-default, <id2,1,[301]>
-relevant, <id2,1,[345]>
-interests, <id2,1,[481]>
-recall, <id2,1,[916]>
-attributes, <id2,3,[543, 563, 568]>
-responsible, <id2,1,[525]>
-develop, <id2,1,[712]>
-resolve, <id2,1,[852]>
-authors, <id2,1,[518]>
-isolation, <id2,1,[783]>
-classified, <id2,1,[182]>
-providing, <id2,2,[130, 307]>
-done, <id2,1,[766]>
-pages, <id2,3,[81, 108, 129]>
-organizations, <id2,1,[29]>
-generate, <id2,2,[50, 82]>
-pipeline, <id2,1,[924]>
-hyperlink, <id2,1,[803]>
-function, <id2,1,[880]>
-invaded, <id2,1,[508]>
-inverse, <id2,1,[856]>
-growing, <id2,1,[483]>
-internet, <id2,1,[686]>
-criticized, <id2,1,[410]>
-extricate, <id2,1,[24]>
-occurs, <id2,1,[429]>
-mouse, <id2,1,[450]>
-graph, <id2,1,[626]>
-along, <id2,1,[174]>
-look, <id2,1,[606]>
-create, <id2,1,[399]>
-gain, <id2,1,[887]>
-criminal, <id2,1,[260]>
-personalization, <id2,1,[325]>
-classifier, <id2,1,[897]>
-implement, <id2,1,[862]>
-complicated, <id2,1,[948]>
-promotional, <id2,1,[308]>
-some, <id2,1,[537]>
-created, <id2,1,[295]>
-avoided, <id2,1,[584]>
-whole, <id2,1,[842]>
-usual, <id2,1,[910]>
-reacting, <id2,1,[271]>
+library, <id1,1,[1537]>
+quality, <id1,1,[490]>
+other, <id1,1,[395]>
+phase, <id2,1,[395]>,<id1,2,[639, 788]>
+defined, <id2,1,[452]>,<id1,1,[625]>
+involves, <id2,1,[737]>,<id1,4,[50, 185, 744, 1152]>
+prediction, <id1,2,[219, 1046]>
+project, <id1,2,[1592, 1599]>
+curve, <id1,1,[896]>
+forum, <id1,1,[445]>
+first, <id1,2,[414, 448]>
+information, <id2,18,[14, 33, 83, 127, 214, 422, 613, 661, 672, 703, 715, 749, 758, 770, 813, 886, 891, 917]>,<id1,17,[26, 32, 90, 401, 403, 1093, 1126, 1139, 1231, 1253, 1258, 1281, 1362, 1406, 1493, 1627, 1629]>
+effectively, <id1,1,[1305]>
+copyright, <id1,6,[1431, 1440, 1449, 1473, 1503, 1549]>
+aspect, <id1,1,[54]>
+part, <id1,4,[232, 292, 1582, 1595]>
+together, <id1,1,[1155]>
+society, <id2,1,[258]>,<id1,2,[1494, 1539]>
+relation, <id1,1,[1094]>
+pattern, <id2,9,[7, 158, 340, 369, 393, 522, 600, 898, 982]>,<id1,22,[4, 75, 166, 181, 192, 273, 304, 512, 519, 584, 696, 707, 802, 812, 825, 848, 875, 883, 899, 911, 919, 1140]>
+overridden, <id1,1,[1508]>
+valid, <id1,1,[818]>
+wherever, <id1,1,[1068]>
+come, <id1,1,[1185]>
+licence, <id1,1,[1522]>
+people, <id2,1,[456]>,<id1,2,[665, 1095]>
+mathematical, <id1,1,[597]>
+intended, <id1,1,[1364]>
+university, <id1,1,[1535]>
+sufficient, <id1,1,[792]>
+including, <id2,1,[231]>,<id1,1,[103]>
+settlement, <id1,1,[1585]>
+israel, <id1,1,[1563]>
+solution, <id1,1,[1526]>
+following, <id1,3,[1210, 1606, 1618]>
+called, <id1,2,[471, 833]>
+book, <id1,3,[111, 1584, 1593]>
+if, <id1,2,[897, 909]>
+present, <id1,4,[698, 828, 967, 1365]>
+fair, <id1,4,[1257, 1553, 1560, 1578]>
+indirect, <id1,1,[551]>
+commonly, <id1,1,[624]>
+failed, <id1,1,[1333]>
+work, <id2,3,[190, 765, 796]>,<id1,2,[1435, 1575]>
+applies, <id1,1,[1416]>
+knowledge, <id2,4,[387, 431, 662, 980]>,<id1,12,[40, 76, 405, 411, 437, 453, 474, 503, 619, 798, 921, 935]>
+increasing, <id2,1,[504]>,<id1,1,[529]>
+specific, <id2,4,[310, 327, 470, 519]>,<id1,2,[1200, 1417]>
+revoke, <id1,1,[1321]>
+major, <id1,1,[444]>
+exchange, <id1,1,[1036]>
+decision, <id1,4,[100, 221, 569, 571]>
+language, <id2,1,[944]>,<id1,2,[1027, 1029]>
+requires, <id1,2,[1135, 1356]>
+passage, <id1,1,[1345]>
+interestingness, <id1,1,[59]>
+verify, <id1,1,[801]>
+educational, <id1,1,[1411]>
+system, <id2,2,[204, 741]>,<id1,3,[15, 102, 223]>
+actual, <id1,3,[145, 153, 608]>
+play, <id1,1,[1186]>
+u, <id1,2,[1342, 1548]>
+classify, <id2,1,[248]>,<id1,1,[887]>
+tree, <id1,1,[570]>
+etc, <id1,1,[407]>
+buzzword, <id1,1,[85]>
+background, <id1,1,[598]>
+performing, <id1,1,[773]>
+agency, <id2,2,[233, 245]>,<id1,1,[1329]>
+extract, <id2,1,[212]>,<id1,2,[25, 162]>
+phrase, <id1,1,[377]>
+exchanging, <id1,1,[1015]>
+where, <id1,1,[1443]>
+uncover, <id1,2,[270, 695]>
+trying, <id1,1,[862]>
+network, <id1,1,[564]>
+consumer, <id1,1,[1299]>
+discovering, <id2,1,[95]>,<id1,1,[3]>
+implication, <id1,1,[1089]>
+regulation, <id1,1,[1380]>
+national, <id1,2,[1120, 1327]>
+proliferation, <id1,1,[527]>
+reported, <id1,1,[666]>
+assembled, <id1,1,[691]>
+year, <id1,1,[464]>
+see, <id1,1,[1631]>
+multivariate, <id1,1,[725]>
+intelligent, <id2,2,[713, 717]>,<id1,1,[27]>
+montreal, <id1,1,[456]>
+ethical, <id2,2,[411, 586]>,<id1,2,[1088, 1097]>
+interchangeably, <id1,1,[440]>
+able, <id1,2,[1198, 1237]>
+updating, <id1,1,[67]>
+limitation, <id1,2,[1478, 1531]>
+launched, <id1,1,[468]>
+mart, <id1,1,[720]>
+hidden, <id1,2,[272, 583]>
+ability, <id1,1,[539]>
+appear, <id1,1,[755]>
+to, <id2,1,[851]>,<id1,1,[835]>
+there, <id2,2,[374, 829]>,<id1,1,[981]>
+attempt, <id1,1,[1330]>
+concise, <id1,1,[709]>
+six, <id1,2,[638, 745]>
+title, <id1,1,[1521]>
+turned, <id1,1,[392]>
+discovered, <id1,2,[63, 305]>
+manual, <id1,1,[510]>
+average, <id1,1,[1395]>
+principle, <id1,1,[1303]>
+portability, <id1,1,[1350]>
+civil, <id1,1,[1538]>
+published, <id1,4,[347, 671, 947, 950]>
+early, <id1,1,[516]>
+process, <id2,2,[342, 570]>,<id1,12,[2, 43, 239, 578, 623, 634, 641, 675, 789, 987, 993, 1003]>
+press, <id1,1,[431]>
+computing, <id1,1,[928]>
+underway, <id1,1,[1296]>
+strong, <id2,1,[564]>,<id1,1,[1292]>
+citation, <id1,1,[1334]>
+standard, <id2,2,[587, 968]>,<id1,8,[633, 658, 902, 914, 984, 992, 999, 1023]>
+defines, <id1,1,[637]>
+private, <id1,1,[1166]>
+insurance, <id1,1,[1349]>
+applied, <id2,2,[197, 388]>,<id1,5,[87, 591, 615, 849, 877]>
+harm, <id1,1,[1266]>
+different, <id2,5,[43, 86, 137, 476, 755]>,<id1,1,[787]>
+edward, <id1,1,[1314]>
+consequently, <id1,1,[391]>
+creating, <id1,1,[310]>
+manipulation, <id1,1,[538]>
+representative, <id1,1,[1534]>
+interpret, <id2,1,[706]>,<id1,1,[917]>
+small, <id1,1,[298]>
+observation, <id1,1,[737]>
+way, <id2,2,[385, 831]>,<id1,5,[342, 602, 1100, 1146, 1159]>
+legality, <id1,1,[1110]>
+case, <id1,2,[1104, 1588]>
+contractual, <id1,1,[1509]>
+cover, <id1,3,[120, 1045, 1058]>
+permission, <id1,1,[1439]>
+publisher, <id1,1,[1543]>
+korea, <id1,1,[1566]>
+arise, <id1,1,[786]>
+simplified, <id1,1,[640]>
+owner, <id2,1,[491]>,<id1,2,[1441, 1460]>
+importance, <id2,1,[848]>,<id1,1,[1053]>
+association, <id1,2,[177, 927]>
+method, <id2,1,[900]>,<id1,9,[9, 28, 146, 290, 307, 517, 580, 614, 890]>
+extraction, <id2,2,[657, 871]>,<id1,5,[74, 80, 93, 406, 511]>
+technology, <id2,6,[228, 235, 247, 357, 382, 401]>,<id1,1,[532]>
+test, <id1,5,[251, 313, 839, 850, 878]>
+released, <id1,1,[1246]>
+tool, <id2,3,[203, 685, 714]>,<id1,1,[117]>
+dredging, <id1,2,[281, 326]>
+later, <id1,2,[465, 477]>
+premier, <id1,1,[923]>
+based, <id2,4,[73, 293, 577, 779]>,<id1,1,[1241]>
+may, <id1,10,[198, 297, 891, 1087, 1214, 1220, 1375, 1448, 1452, 1547]>
+ranging, <id1,1,[357]>
+licensing, <id1,1,[1529]>
+common, <id2,1,[955]>,<id1,4,[716, 746, 820, 1145]>
+format, <id1,1,[1037]>
+advise, <id1,1,[1129]>
+practice, <id2,1,[553]>,<id1,5,[330, 353, 1259, 1373, 1405]>
+rule, <id2,1,[565]>,<id1,3,[178, 572, 1387]>
+machine, <id1,12,[11, 106, 115, 122, 128, 149, 202, 266, 421, 561, 575, 781]>
+successor, <id1,1,[1002]>
+made, <id2,2,[441, 595]>,<id1,1,[302]>
+find, <id2,3,[276, 298, 978]>,<id1,2,[824, 1238]>
+violates, <id2,1,[479]>,<id1,1,[1256]>
+paper, <id1,1,[497]>
+privacy, <id2,4,[418, 419, 507, 610]>,<id1,10,[1109, 1131, 1143, 1184, 1272, 1293, 1309, 1339, 1407, 1413]>
+right, <id1,4,[1298, 1412, 1451, 1461]>
+fishing, <id1,3,[283, 324, 360]>
+overcome, <id1,1,[836]>
+thus, <id2,2,[312, 446]>,<id1,1,[790]>
+applying, <id1,1,[579]>
+containing, <id1,1,[738]>
+computer, <id1,5,[20, 99, 531, 557, 957]>
+development, <id2,1,[738]>,<id1,1,[1001]>
+due, <id1,1,[1491]>
+class, <id1,1,[747]>
+practical, <id1,2,[114, 127]>
+medicine, <id1,1,[1080]>
+accountability, <id1,1,[1351]>
+similarly, <id1,1,[340]>
+show, <id2,2,[381, 774]>,<id1,1,[648]>
+machinery, <id1,1,[929]>
+azevedo, <id1,1,[677]>
+enforcement, <id1,1,[1123]>
+necessary, <id1,1,[904]>
+validity, <id2,2,[366, 931]>,<id1,1,[303]>
+expose, <id1,1,[1306]>
+statistic, <id2,1,[780]>,<id1,4,[13, 22, 96, 592]>
+associated, <id2,1,[360]>,<id1,1,[1091]>
+missing, <id1,1,[740]>
+health, <id1,1,[1348]>
+contrast, <id1,1,[262]>
+suggests, <id1,1,[1044]>
+desired, <id1,3,[855, 901, 913]>
+awareness, <id1,1,[1127]>
+user, <id2,9,[173, 218, 337, 344, 448, 480, 621, 699, 746]>,<id1,1,[1308]>
+individual, <id2,5,[424, 461, 551, 576, 603]>,<id1,8,[1183, 1201, 1219, 1234, 1240, 1268, 1357, 1396]>
+use, <id2,5,[473, 541, 561, 776, 974]>,<id1,8,[35, 287, 767, 1019, 1422, 1554, 1561, 1579]>
+science, <id1,4,[21, 558, 958, 1081]>
+without, <id2,1,[430]>,<id1,3,[333, 1010, 1438]>
+total, <id1,1,[1125]>
+comparison, <id1,1,[680]>
+detection, <id1,1,[175]>
+necessarily, <id1,1,[817]>
+withdrawn, <id1,1,[1009]>
+amend, <id1,1,[1472]>
+while, <id1,1,[1083]>
+exception, <id1,4,[1479, 1487, 1497, 1532]>
+week, <id1,1,[1372]>
+mostly, <id1,1,[121]>
+allows, <id1,1,[1498]>
+addressed, <id1,1,[1341]>
+inference, <id1,2,[57, 301]>
+complexity, <id1,2,[61, 545]>
+europe, <id1,3,[1290, 1447, 1523]>
+workstation, <id1,1,[389]>
+ferpa, <id1,1,[1415]>
+in, <id1,5,[317, 441, 1112, 1269, 1336]>
+world, <id2,3,[8, 674, 687]>,<id1,1,[1484]>
+efficiently, <id1,1,[612]>
+campaign, <id1,1,[258]>
+ethic, <id1,1,[1111]>
+measured, <id1,1,[884]>
+around, <id1,1,[368]>
+indicates, <id1,1,[352]>
+hargreaves, <id1,1,[1467]>
+program, <id1,1,[1128]>
+lawsuit, <id2,1,[532]>,<id1,1,[1277]>
+appropriate, <id1,1,[151]>
+little, <id1,1,[766]>
+exist, <id1,1,[1453]>
+experimentation, <id1,1,[358]>
+distinguish, <id1,1,[863]>
+journalist, <id1,1,[1236]>
+incomprehensibility, <id1,1,[1394]>
+pmml, <id1,1,[1028]>
+scale, <id1,1,[140]>
+cleaned, <id1,1,[733]>
+general, <id2,1,[876]>,<id1,2,[137, 829]>
+considered, <id2,3,[187, 420, 517]>,<id1,1,[328]>
+ruled, <id1,1,[1589]>
+identified, <id1,1,[1222]>
+stalled, <id1,1,[1006]>
+snooping, <id1,2,[285, 361]>
+aaai, <id1,1,[457]>
+issue, <id2,2,[400, 412]>,<id1,1,[1528]>
+java, <id1,2,[119, 996]>
+researcher, <id2,1,[711]>,<id1,3,[390, 670, 1536]>
+visualization, <id1,1,[65]>
+technique, <id2,8,[5, 125, 154, 362, 649, 725, 908, 977]>,<id1,2,[118, 188]>
+proper, <id1,1,[774]>
+legal, <id1,3,[1442, 1527, 1568]>
+rate, <id1,1,[495]>
+indexed, <id1,1,[605]>
+anonymous, <id2,3,[442, 515, 596]>,<id1,2,[1205, 1218]>
+intelligence, <id1,4,[105, 109, 148, 594]>
+exists, <id1,1,[628]>
+hosted, <id1,1,[943]>
+predict, <id1,1,[758]>
+dependency, <id1,1,[176]>
+unknown, <id1,1,[164]>
+ramasamy, <id1,1,[462]>
+aided, <id1,1,[555]>
+cluster, <id1,2,[170, 565]>
+marketing, <id2,1,[238]>,<id1,2,[134, 257]>
+usama, <id1,2,[460, 466]>
+a, <id2,3,[11, 808, 883]>,<id1,5,[540, 692, 1042, 1312, 1569]>
+indicated, <id1,1,[1267]>
+provision, <id1,2,[1507, 1552]>
+second, <id1,1,[1482]>
+gap, <id1,1,[590]>
+raise, <id1,1,[1106]>
+threat, <id2,2,[249, 608]>,<id1,1,[1182]>
+us, <id2,1,[625]>,<id1,4,[265, 838, 1367, 1597]>
+lovell, <id1,2,[345, 351]>
+set, <id2,1,[885]>,<id1,21,[7, 30, 296, 542, 587, 617, 689, 702, 727, 732, 810, 827, 831, 840, 851, 870, 879, 1119, 1197, 1227, 1242]>
+hypothesis, <id1,5,[253, 312, 334, 772, 776]>
+context, <id1,1,[1105]>
+law, <id2,1,[533]>,<id1,7,[1122, 1294, 1419, 1433, 1474, 1504, 1550]>
+under, <id2,1,[865]>,<id1,1,[1429]>
+actually, <id1,2,[697, 757]>
+commercial, <id1,1,[1117]>
+rather, <id1,2,[1291, 1530]>
+identify, <id2,2,[560, 966]>,<id1,2,[212, 1199]>
+newsletter, <id1,1,[480]>
+meet, <id1,2,[900, 912]>
+community, <id2,1,[220]>,<id1,4,[370, 423, 432, 443]>
+connotation, <id1,1,[373]>
+name, <id2,1,[12]>,<id1,1,[1043]>
+before, <id2,1,[961]>,<id1,1,[682]>
+additional, <id2,2,[335, 612]>,<id1,1,[240]>
+available, <id2,1,[731]>,<id1,4,[1071, 1608, 1616, 1620]>
+address, <id2,1,[358]>,<id1,1,[1420]>
+approach, <id2,1,[734]>,<id1,1,[1392]>
+safe, <id1,1,[1301]>
+known, <id1,1,[783]>
+investigating, <id1,1,[770]>
+evaluation, <id1,1,[837]>
+stored, <id1,1,[604]>
+trained, <id1,4,[845, 868, 873, 880]>
+analyzing, <id2,1,[390]>,<id1,3,[255, 331, 1625]>
+increased, <id2,1,[499]>,<id1,2,[534, 1319]>
+bear, <id1,1,[765]>
+newly, <id1,1,[1194]>
+topic, <id1,2,[416, 965]>
+stakeholder, <id1,2,[1516, 1545]>
+mining, <id2,47,[1, 4, 16, 49, 60, 66, 78, 91, 102, 121, 134, 141, 144, 147, 150, 153, 181, 195, 200, 210, 223, 255, 322, 356, 380, 394, 398, 416, 521, 538, 590, 624, 641, 647, 652, 655, 656, 724, 736, 752, 817, 903, 907, 920, 942, 963, 976]>,<id1,73,[1, 17, 37, 71, 81, 113, 132, 155, 179, 182, 209, 234, 247, 264, 289, 338, 366, 379, 388, 394, 427, 436, 452, 473, 493, 502, 577, 636, 643, 657, 674, 684, 694, 729, 743, 750, 805, 815, 822, 843, 860, 907, 938, 961, 964, 986, 995, 998, 1032, 1040, 1050, 1066, 1076, 1086, 1092, 1102, 1115, 1134, 1173, 1283, 1404, 1424, 1434, 1437, 1455, 1477, 1489, 1500, 1520, 1557, 1571, 1604, 1624]>
+patron, <id1,1,[1274]>
+group, <id2,1,[458]>,<id1,5,[167, 214, 933, 1033, 1540]>
+web, <id2,53,[0, 10, 17, 47, 53, 55, 58, 64, 76, 80, 87, 89, 97, 107, 115, 128, 133, 139, 142, 145, 148, 159, 172, 177, 179, 198, 208, 221, 320, 354, 378, 396, 414, 622, 632, 636, 639, 645, 650, 653, 663, 676, 689, 718, 732, 735, 750, 816, 822, 825, 919, 925, 959]>,<id1,1,[1436]>
+previously, <id1,1,[163]>
+article, <id1,2,[346, 1369]>
+identification, <id1,2,[1165, 1233]>
+resulting, <id1,1,[852]>
+population, <id1,2,[294, 316]>
+transformative, <id1,2,[1572, 1596]>
+importantly, <id1,1,[1386]>
+email, <id1,1,[866]>
+submission, <id1,1,[498]>
+contain, <id1,2,[706, 1229]>
+occurred, <id1,2,[514, 1235]>
+bad, <id1,1,[329]>
+harvesting, <id1,1,[402]>
+draft, <id1,1,[1013]>
+deducible, <id1,1,[1168]>
+acceptable, <id1,1,[713]>
+surveillance, <id1,2,[1082, 1317]>
+offer, <id2,2,[309, 334]>,<id1,1,[1376]>
+dataset, <id1,1,[254]>
+lawful, <id1,2,[1577, 1594]>
+comprehensible, <id1,1,[33]>
+interesting, <id2,1,[156]>,<id1,1,[165]>
+analyze, <id2,1,[628]>,<id1,1,[724]>
+future, <id1,2,[759, 1366]>
+several, <id2,1,[830]>,<id1,3,[668, 888, 1239]>
+titled, <id1,1,[954]>
+sigkdd, <id1,4,[479, 481, 939, 955]>
+consideration, <id1,2,[58, 62]>
+seen, <id1,1,[193]>
+anonymity, <id1,1,[1401]>
+review, <id1,3,[348, 672, 1468]>
+taiwan, <id1,1,[1564]>
+analysis, <id2,2,[332, 899]>,<id1,14,[38, 47, 95, 142, 158, 171, 200, 245, 249, 525, 548, 566, 1161, 1180]>
+instance, <id1,1,[1271]>
+prevent, <id1,1,[793]>
+behavior, <id2,2,[176, 338]>,<id1,2,[760, 1096]>
+exposed, <id1,1,[1326]>
+facilitated, <id1,1,[1515]>
+history, <id1,1,[1244]>
+unusual, <id1,1,[172]>
+kluwer, <id1,1,[470]>
+become, <id2,1,[827]>,<id1,1,[1217]>
+code, <id2,5,[945, 954, 958, 967, 973]>,<id1,1,[1614]>
+used, <id2,7,[103, 211, 402, 426, 838, 895, 928]>,<id1,14,[199, 216, 250, 309, 320, 339, 380, 397, 439, 652, 686, 892, 1067, 1103]>
+form, <id2,1,[438]>,<id1,1,[88]>
+predictive, <id1,3,[204, 1020, 1024]>
+license, <id1,2,[1609, 1622]>
+high, <id2,1,[585]>,<id1,1,[1052]>
+open, <id1,1,[1541]>
+modified, <id1,1,[1216]>
+intersection, <id1,1,[10]>
+regulatory, <id1,1,[1346]>
+theorem, <id1,1,[523]>
+leading, <id1,2,[650, 1254]>
+collection, <id1,3,[92, 226, 536]>
+these, <id2,3,[349, 552, 708]>,<id1,2,[191, 306]>
+testing, <id1,1,[777]>
+applicable, <id1,1,[791]>
+aahc, <id1,1,[1384]>
+restriction, <id1,1,[1492]>
+study, <id2,1,[188]>,<id1,1,[350]>
+field, <id1,3,[508, 560, 926]>
+dmg, <id1,2,[1034, 1064]>
+ai, <id2,1,[740]>,<id1,1,[420]>
+personally, <id1,1,[1251]>
+hipaa, <id1,4,[1353, 1355, 1374, 1409]>
+financial, <id1,1,[1263]>
+the, <id2,16,[45, 252, 409, 433, 482, 509, 556, 592, 666, 733, 839, 875, 896, 909, 943, 951]>,<id1,28,[68, 110, 152, 242, 277, 335, 363, 483, 499, 509, 526, 618, 655, 730, 795, 846, 881, 922, 1099, 1181, 1248, 1354, 1421, 1480, 1512, 1524, 1605, 1617]>
+extension, <id1,1,[1057]>
+very, <id1,1,[977]>
+mean, <id1,1,[1555]>
+primary, <id1,2,[488, 505]>
+aol, <id1,1,[1247]>
+involving, <id2,1,[413]>,<id1,1,[8]>
+clustering, <id2,1,[443]>,<id1,1,[1061]>
+violation, <id1,1,[1273]>
+anonymized, <id1,1,[1225]>
+digitization, <id1,1,[1598]>
+icde, <id1,1,[971]>
+presiding, <id1,1,[1586]>
+identifiable, <id1,1,[1252]>
+filed, <id1,1,[1276]>
+recommended, <id1,1,[1207]>
+ubiquity, <id1,1,[528]>
+critical, <id1,1,[341]>
+today, <id1,1,[1072]>
+interpretation, <id1,1,[230]>
+directive, <id1,2,[1464, 1495]>
+reach, <id1,1,[1331]>
+access, <id2,1,[339]>,<id1,3,[1193, 1542, 1611]>
+legislation, <id2,1,[555]>,<id1,2,[1408, 1428]>
+property, <id1,1,[1459]>
+alias, <id1,1,[356]>
+input, <id1,1,[196]>
+model, <id2,3,[333, 350, 836]>,<id1,7,[56, 252, 269, 676, 1017, 1025, 1047]>
+proposed, <id1,1,[1062]>
+multiple, <id1,1,[213]>
+necessity, <id1,1,[1399]>
+named, <id1,2,[126, 659]>
+result, <id2,4,[240, 530, 572, 868]>,<id1,6,[220, 229, 644, 754, 769, 1176]>
+business, <id1,6,[108, 430, 1054, 1079, 1371, 1426]>
+subfield, <id1,1,[19]>
+aware, <id1,1,[1209]>
+founding, <id1,1,[476]>
+became, <id1,3,[418, 428, 487]>
+dialogue, <id1,1,[1546]>
+underscore, <id1,1,[1398]>
+storage, <id1,1,[537]>
+include, <id2,1,[384]>,<id1,3,[398, 521, 962]>
+focus, <id2,1,[62]>,<id1,1,[1525]>
+international, <id1,4,[449, 485, 945, 975]>
+professional, <id1,1,[924]>
+academic, <id1,2,[442, 952]>
+provided, <id1,1,[1286]>
+judge, <id1,1,[1587]>
+execute, <id1,1,[607]>
+aside, <id1,1,[45]>
+within, <id1,1,[712]>
+using, <id2,1,[246]>,<id1,2,[186, 667]>
+coined, <id1,1,[409]>
+this, <id2,8,[99, 118, 234, 341, 497, 569, 582, 845]>,<id1,5,[183, 832, 1171, 1260, 1397]>
+biannual, <id1,1,[951]>
+harbor, <id1,1,[1302]>
+raised, <id1,1,[1130]>
+discovery, <id2,1,[681]>,<id1,12,[41, 404, 412, 438, 454, 475, 504, 556, 610, 620, 799, 936]>
+inadvertently, <id1,1,[1245]>
+arena, <id1,1,[1382]>
+would, <id2,1,[109]>,<id1,2,[867, 876]>
+goal, <id2,1,[46]>,<id1,3,[24, 73, 1388]>
+reason, <id1,1,[135]>
+genetic, <id1,1,[567]>
+metric, <id1,1,[60]>
+intention, <id1,1,[581]>
+supported, <id1,1,[1035]>
+consent, <id2,1,[432]>,<id1,2,[1360, 1391]>
+pure, <id1,1,[1445]>
+uncovers, <id1,1,[1138]>
+revelation, <id1,1,[1250]>
+enough, <id1,3,[705, 710, 1230]>
+term, <id2,1,[853]>,<id1,14,[69, 130, 138, 279, 321, 336, 364, 396, 410, 417, 425, 434, 1084, 1510]>
+neither, <id1,1,[224]>
+generally, <id2,1,[700]>,<id1,1,[371]>
+subject, <id1,1,[1457]>
+obtain, <id1,1,[217]>
+not, <id1,1,[811]>
+intellectual, <id1,1,[1458]>
+accuracy, <id2,1,[914]>,<id1,1,[882]>
+volume, <id2,1,[243]>,<id1,1,[275]>
+various, <id1,1,[1157]>
+short, <id1,1,[375]>
+statistician, <id1,1,[318]>
+often, <id1,3,[136, 768, 1090]>
+dramatically, <id1,1,[533]>
+compiled, <id1,2,[1188, 1195]>
+emotional, <id1,1,[1264]>
+more, <id2,1,[318]>,<id1,1,[1385]>
+methodology, <id1,2,[649, 651]>
+controlled, <id1,1,[1427]>
+algorithm, <id2,4,[196, 539, 567, 877]>,<id1,9,[568, 611, 685, 806, 816, 823, 844, 861, 894]>
+michael, <id1,1,[344]>
+needed, <id2,1,[874]>,<id1,1,[1335]>
+introduced, <id2,1,[859]>,<id1,1,[1486]>
+team, <id1,1,[669]>
+subspace, <id1,1,[1060]>
+large, <id1,8,[5, 77, 139, 159, 274, 585, 704, 978]>
+san, <id1,1,[384]>
+extracting, <id1,1,[1628]>
+interest, <id2,1,[481]>,<id1,1,[932]>
+significant, <id1,1,[756]>
+validation, <id1,1,[645]>
+limit, <id1,1,[715]>
+viewed, <id1,2,[1567, 1576]>
+highest, <id1,1,[489]>
+country, <id1,2,[1483, 1562]>
+essential, <id1,1,[723]>
+effort, <id1,2,[982, 1295]>
+kdd, <id1,4,[44, 238, 484, 622]>
+digital, <id1,1,[1069]>
+warehouse, <id1,1,[722]>
+found, <id2,1,[790]>,<id1,2,[813, 1077]>
+selling, <id2,1,[485]>,<id1,1,[1279]>
+apparent, <id1,1,[1170]>
+agreement, <id1,2,[1322, 1332]>
+confidentiality, <id1,1,[1142]>
+raw, <id1,1,[46]>
+negative, <id1,1,[362]>
+time, <id2,2,[373, 855]>,<id1,3,[376, 663, 714]>
+positive, <id1,2,[359, 372]>
+analytics, <id1,3,[143, 205, 1021]>
+poll, <id1,2,[646, 660]>
+source, <id2,2,[44, 673]>,<id1,3,[717, 1158, 1613]>
+collected, <id2,1,[593]>,<id1,1,[1212]>
+new, <id1,2,[311, 762]>
+acm, <id1,2,[930, 941]>
+exploitation, <id1,1,[1310]>
+support, <id1,3,[101, 222, 573]>
+belong, <id1,1,[236]>
+final, <id1,3,[796, 915, 1012]>
+sequential, <id1,1,[180]>
+extracted, <id1,1,[1016]>
+facilitates, <id1,1,[1160]>
+informed, <id1,2,[1359, 1390]>
+condition, <id2,1,[866]>,<id1,1,[1511]>
+throughout, <id1,1,[1078]>
+make, <id2,6,[19, 113, 227, 514, 558, 679]>,<id1,1,[1164]>
+bodily, <id1,1,[1265]>
+like, <id2,1,[544]>,<id1,1,[322]>
+uthurusamy, <id1,1,[463]>
+body, <id1,1,[925]>
+led, <id1,2,[1469, 1533]>
+give, <id1,1,[1358]>
+markup, <id1,1,[1026]>
+preparation, <id1,3,[228, 1137, 1177]>
+clandestine, <id1,1,[271]>
+consequence, <id1,1,[1313]>
+developed, <id2,1,[201]>,<id1,1,[1030]>
+area, <id2,2,[193, 324]>,<id1,1,[1418]>
+task, <id1,3,[156, 748, 1051]>
+once, <id1,1,[872]>
+pitch, <id1,1,[386]>
+structure, <id2,21,[40, 48, 63, 65, 70, 77, 90, 96, 101, 105, 120, 146, 623, 631, 640, 646, 651, 669, 799, 804, 821]>,<id1,2,[34, 64]>
+simple, <id1,1,[778]>
+workshop, <id1,1,[415]>
+on, <id1,1,[1465]>
+level, <id2,2,[72, 728]>,<id1,1,[1393]>
+record, <id1,2,[169, 173]>
+one, <id2,3,[506, 609, 964]>,<id1,2,[1270, 1601]>
+regardless, <id1,1,[259]>
+for, <id2,1,[794]>,<id1,5,[206, 374, 857, 1014, 1580]>
+output, <id1,2,[853, 856]>
+misnomer, <id1,1,[72]>
+independently, <id1,1,[1063]>
+subsequently, <id1,1,[903]>
+government, <id2,2,[232, 244]>,<id1,2,[1116, 1471]>
+control, <id1,1,[1347]>
+identifying, <id2,1,[259]>,<id1,1,[518]>
+referring, <id1,1,[144]>
+occur, <id1,2,[807, 1147]>
+majority, <id1,1,[1425]>
+it, <id2,4,[18, 604, 773, 927]>,<id1,6,[83, 459, 588, 627, 819, 1206]>
+misused, <id1,1,[752]>
+european, <id1,4,[989, 1307, 1430, 1513]>
+cross, <id2,1,[888]>,<id1,1,[990]>
+congress, <id1,1,[1343]>
+conference, <id1,9,[450, 486, 491, 946, 959, 970, 972, 974, 976]>
+example, <id1,7,[201, 207, 858, 988, 1059, 1074, 1581]>
+problem, <id2,1,[359]>,<id1,2,[780, 785]>
+also, <id2,3,[92, 351, 375]>,<id1,7,[49, 84, 966, 1162, 1215, 1505, 1615]>
+content, <id2,11,[42, 59, 143, 346, 526, 654, 665, 751, 923, 937, 939]>,<id1,4,[1476, 1499, 1556, 1570]>
+originally, <id1,2,[125, 1204]>
+especially, <id2,1,[428]>,<id1,1,[1202]>
+target, <id2,1,[291]>,<id1,3,[687, 700, 731]>
+bayes, <id1,1,[522]>
+jdm, <id1,3,[1000, 1004, 1008]>
+must, <id1,2,[690, 703]>
+uk, <id1,4,[1470, 1481, 1496, 1502]>
+augmented, <id1,1,[550]>
+security, <id1,2,[1121, 1328]>
+added, <id1,1,[133]>
+allowing, <id1,1,[613]>
+possibly, <id1,1,[1156]>
+otherwise, <id1,2,[1098, 1169]>
+amount, <id2,1,[500]>,<id1,2,[78, 260]>
+combining, <id2,1,[616]>,<id1,1,[1153]>
+difference, <id1,1,[243]>
+provide, <id2,3,[697, 701, 726]>,<id1,2,[596, 1363]>
+increasingly, <id1,1,[549]>
+say, <id1,1,[1383]>
+version, <id1,1,[779]>
+appeared, <id1,1,[367]>
+accurate, <id1,1,[218]>
+learned, <id1,5,[847, 874, 898, 910, 918]>
+google, <id1,2,[1583, 1590]>
+trademarked, <id1,1,[382]>
+direct, <id1,1,[546]>
+journal, <id1,4,[469, 500, 507, 953]>
+hnc, <id1,1,[383]>
+key, <id1,1,[1022]>
+text, <id2,3,[786, 901, 962]>,<id1,2,[1518, 1602]>
+obligation, <id1,1,[1144]>
+family, <id1,1,[1410]>
+mined, <id1,1,[711]>
+define, <id1,1,[983]>
+potentially, <id1,1,[1228]>
 reveal, <id2,2,[23, 104]>
-taxonomies, <id2,1,[936]>
-construct, <id2,1,[878]>
-classification, <id2,1,[913]>
-risk, <id2,1,[314]>
-words, <id2,4,[778, 782, 849, 947]>
-disseminated, <id2,1,[427]>
-particularly, <id2,1,[323]>
-hypertext, <id2,1,[677]>
-degrade, <id2,1,[372]>
-area, <id2,1,[324]>
-entropy, <id2,1,[889]>
-usage, <id2,15,[140, 149, 157, 167, 180, 185, 199, 222, 321, 355, 379, 392, 397, 415, 566]>
-serve, <id2,1,[164]>
-evaluative, <id2,1,[911]>
-totally, <id2,1,[475]>
-representation, <id2,2,[807, 846]>
-controversial, <id2,2,[542, 562]>
-categorize, <id2,3,[79, 550, 704]>
-race, <id2,2,[546, 578]>
-word, <id2,2,[789, 957]>
-generation, <id2,1,[940]>
-costs, <id2,1,[282]>
-discover, <id2,4,[6, 68, 155, 747]>
-opinion, <id2,1,[941]>
-browsing, <id2,1,[175]>
-advantages, <id2,1,[226]>
-shows, <id2,1,[774]>
-documents, <id2,8,[678, 707, 801, 805, 833, 840, 960, 970]>
-building, <id2,1,[935]>
-filter, <id2,1,[705]>
-fight, <id2,1,[250]>
-navigation, <id2,1,[111]>
-establish, <id2,1,[263]>
-utilization, <id2,1,[20]>
-feature, <id2,3,[863, 872, 884]>
-purpose, <id2,2,[112, 471]>
-html, <id2,2,[798, 969]>
-instead, <id2,1,[460]>
-mainly, <id2,1,[61]>
-probabilistic, <id2,1,[329]>
-summarized, <id2,1,[763]>
-structural, <id2,3,[51, 637, 702]>
+represent, <id2,2,[784, 832]>
 get, <id2,1,[30]>
-relationship, <id2,2,[85, 266]>
+three, <id2,1,[136]>
+separate, <id2,1,[618]>
+indexing, <id2,1,[684]>
+they, <id2,3,[288, 296, 523]>
+characteristic, <id2,2,[459, 462]>
+inaccuracy, <id2,1,[528]>
+permit, <id2,2,[28, 670]>
+terminology, <id2,1,[648]>
+terrorism, <id2,1,[251]>
+tendency, <id2,1,[453]>
+collecting, <id2,1,[468]>
+personalization, <id2,1,[325]>
+evaluating, <id2,1,[879]>
+score, <id2,1,[918]>
+category, <id2,1,[867]>
+totally, <id2,1,[475]>
+alta, <id2,1,[691]>
+usual, <id2,1,[910]>
+risk, <id2,1,[314]>
+author, <id2,1,[518]>
+filter, <id2,1,[705]>
+similarity, <id2,1,[84]>
+demonstrated, <id2,1,[207]>
+demonstrate, <id2,1,[352]>
+link, <id2,2,[39, 69]>
+apparatus, <id2,1,[22]>
+criticized, <id2,1,[410]>
+trend, <id2,2,[484, 498]>
+selection, <id2,1,[864]>
+seco, <id2,1,[206]>
+confirmation, <id2,1,[930]>
+word, <id2,6,[778, 782, 789, 849, 947, 957]>
+attribute, <id2,3,[543, 563, 568]>
+develop, <id2,1,[712]>
+buy, <id2,1,[511]>
+implement, <id2,1,[862]>
+cost, <id2,1,[282]>
+privilege, <id2,1,[575]>
+constitute, <id2,1,[841]>
+navigation, <id2,1,[111]>
+typically, <id2,1,[837]>
+save, <id2,1,[280]>
+clustered, <id2,1,[437]>
+internet, <id2,1,[686]>
+wide, <id2,3,[9, 675, 688]>
+connection, <id2,1,[630]>
+disseminated, <id2,1,[427]>
+classifier, <id2,1,[897]>
+construct, <id2,1,[878]>
+pricing, <id2,1,[292]>
+serve, <id2,1,[164]>
+retrieval, <id2,3,[716, 759, 771]>
+captured, <id2,1,[502]>
+traditional, <id2,2,[361, 905]>
+metacrawler, <id2,1,[695]>
+opinion, <id2,1,[941]>
+gain, <id2,1,[887]>
+browsing, <id2,1,[175]>
+relevant, <id2,1,[345]>
+judging, <id2,2,[449, 454]>
+latent, <id2,1,[330]>
+interpreting, <id2,1,[389]>
+situation, <id2,1,[583]>
+retain, <id2,2,[278, 305]>
+much, <id2,1,[671]>
+competitor, <id2,1,[302]>
+identity, <id2,1,[170]>
+webcrawler, <id2,1,[693]>
+affected, <id2,1,[870]>
+inside, <id2,1,[800]>
+gathered, <id2,1,[15]>
+utilization, <id2,1,[20]>
+essentially, <id2,2,[224, 478]>
+advantage, <id2,1,[226]>
+some, <id2,1,[537]>
+frequency, <id2,2,[854, 858]>
+analyzed, <id2,1,[436]>
+website, <id2,2,[38, 490]>
+realize, <id2,1,[847]>
+usage, <id2,15,[140, 149, 157, 167, 180, 185, 199, 222, 321, 355, 379, 392, 397, 415, 566]>
+reasoning, <id2,1,[391]>
+inverse, <id2,1,[856]>
+default, <id2,1,[301]>
+utilize, <id2,1,[797]>
+along, <id2,1,[174]>
+concerning, <id2,1,[423]>
+heterogeneity, <id2,1,[667]>
+depending, <id2,1,[183]>
+technically, <id2,1,[57]>
+unique, <id2,1,[377]>
+providing, <id2,2,[130, 307]>
+generation, <id2,1,[940]>
+similar, <id2,1,[904]>
+outlined, <id2,1,[326]>
+english, <id2,1,[950]>
+create, <id2,1,[399]>
+precision, <id2,1,[915]>
+treating, <id2,1,[455]>
+traded, <id2,1,[503]>
+mouse, <id2,1,[450]>
+summarized, <id2,1,[763]>
+costa, <id2,1,[205]>
+done, <id2,1,[766]>
+another, <id2,2,[93, 464]>
+node, <id2,1,[629]>
+log, <id2,2,[37, 209]>
+encourages, <id2,1,[489]>
+two, <id2,4,[192, 617, 643, 754]>
+corpus, <id2,1,[792]>
+odds, <id2,1,[892]>
+profitability, <id2,1,[290]>
+concerned, <id2,1,[191]>
+hard, <id2,1,[559]>
+hypertext, <id2,1,[677]>
+infer, <id2,1,[820]>
+capture, <id2,1,[169]>
+behalf, <id2,1,[744]>
+vista, <id2,1,[692]>
+race, <id2,2,[546, 578]>
+structural, <id2,3,[51, 637, 702]>
+reducing, <id2,1,[313]>
+particularly, <id2,1,[323]>
+gb, <id2,1,[952]>
+discover, <id2,4,[6, 68, 155, 747]>
+nature, <id2,1,[405]>
+better, <id2,4,[163, 264, 270, 812]>
+categorize, <id2,3,[79, 550, 704]>
+promotional, <id2,1,[308]>
+theory, <id2,1,[627]>
+isolation, <id2,1,[783]>
+mainly, <id2,1,[61]>
+bias, <id2,1,[363]>
+serious, <id2,1,[531]>
+benefit, <id2,3,[257, 319, 383]>
+representation, <id2,2,[807, 846]>
+given, <id2,1,[219]>
+utilized, <id2,1,[802]>
+classification, <id2,1,[913]>
+criminal, <id2,1,[260]>
+responsible, <id2,1,[525]>
+losing, <id2,1,[315]>
+component, <id2,1,[922]>
+classified, <id2,1,[182]>
+schema, <id2,2,[106, 132]>
+utilizing, <id2,1,[283]>
+evaluative, <id2,1,[911]>
+merit, <id2,2,[463, 912]>
+direction, <id2,1,[94]>
+bag, <id2,1,[777]>
+production, <id2,1,[281]>
+sex, <id2,1,[545]>
+resolve, <id2,1,[852]>
+activity, <id2,2,[35, 261]>
+provides, <id2,1,[343]>
+others, <id2,1,[696]>
+could, <id2,1,[571]>
+higher, <id2,2,[241, 727]>
+reference, <id2,1,[131]>
+trading, <id2,1,[535]>
+by, <id2,1,[860]>
+religion, <id2,2,[547, 579]>
+legally, <id2,1,[524]>
+collaborative, <id2,1,[347]>
+subjective, <id2,1,[371]>
+invaded, <id2,1,[508]>
+service, <id2,1,[574]>
+view, <id2,5,[757, 760, 762, 772, 810]>
+organize, <id2,1,[748]>
+rarely, <id2,1,[869]>
+single, <id2,2,[781, 788]>
+lost, <id2,1,[421]>
+useful, <id2,3,[659, 979, 981]>
+mutual, <id2,1,[890]>
+obliged, <id2,1,[513]>
+inner, <id2,1,[972]>
+prompted, <id2,1,[710]>
+traced, <id2,1,[601]>
+sexual, <id2,2,[548, 580]>
+probabilistic, <id2,1,[329]>
+basis, <id2,1,[457]>
+important, <id2,2,[465, 921]>
+function, <id2,1,[880]>
+lycos, <id2,1,[690]>
+personalized, <id2,1,[237]>
+obtained, <id2,6,[370, 425, 434, 495, 597, 599]>
+commodity, <id2,1,[488]>
+maintained, <id2,1,[588]>
+differentiated, <id2,1,[753]>
+click, <id2,1,[451]>
+trade, <id2,2,[242, 492]>
+building, <id2,1,[935]>
+generate, <id2,2,[50, 82]>
+hyperlink, <id2,3,[71, 75, 803]>
+created, <id2,1,[295]>
+proposes, <id2,1,[13]>
+chinese, <id2,2,[946, 956]>
+space, <id2,2,[835, 844]>
+framework, <id2,1,[328]>
+hyponymy, <id2,1,[215]>
+invasion, <id2,1,[417]>
+insight, <id2,1,[285]>
+reacting, <id2,1,[271]>
+pipeline, <id2,1,[924]>
+element, <id2,1,[376]>
+order, <id2,2,[161, 811]>
 introducing, <id2,1,[123]>
 take, <id2,1,[787]>
-captured, <id2,1,[502]>
-view, <id2,5,[757, 760, 762, 772, 810]>
-traced, <id2,1,[601]>
-chinese, <id2,2,[946, 956]>
-types, <id2,1,[138]>
-rarely, <id2,1,[869]>
-clicks, <id2,1,[451]>
-given, <id2,1,[219]>
-schemes, <id2,1,[117]>
-sexual, <id2,2,[548, 580]>
-two, <id2,4,[192, 617, 643, 754]>
-useful, <id2,3,[659, 979, 981]>
-likeliness, <id2,1,[505]>
-understand, <id2,1,[162]>
-capability, <id2,2,[254, 353]>
-node, <id2,1,[629]>
-they, <id2,3,[288, 296, 523]>
-theory, <id2,1,[627]>
-biases, <id2,1,[363]>
-utilizing, <id2,1,[283]>
-higher, <id2,2,[241, 727]>
-sex, <id2,1,[545]>
+relationship, <id2,3,[85, 216, 266]>
+divided, <id2,2,[135, 642]>
+extend, <id2,1,[721]>
+browser, <id2,1,[34]>
+denial, <id2,1,[573]>
 attract, <id2,1,[277]>
-sites, <id2,1,[88]>
-increase, <id2,1,[289]>
-eventually, <id2,1,[239]>
-try, <id2,1,[304]>
-enabled, <id2,1,[236]>
-subset, <id2,1,[873]>
-identity, <id2,1,[170]>
+always, <id2,1,[818]>
+html, <id2,2,[798, 969]>
+semantic, <id2,3,[213, 331, 386]>
+sophisticated, <id2,1,[739]>
 lack, <id2,1,[668]>
-features, <id2,3,[336, 793, 882]>
-trend, <id2,2,[484, 498]>
-document, <id2,5,[98, 806, 850, 857, 861]>
-bag, <id2,1,[777]>
-webcrawler, <id2,1,[693]>
-apparatuses, <id2,1,[22]>
-unstructured, <id2,3,[32, 767, 785]>
+integration, <id2,1,[658]>
+inferred, <id2,1,[614]>
+scheme, <id2,1,[117]>
+predicting, <id2,1,[253]>
+eventually, <id2,1,[239]>
+type, <id2,4,[100, 119, 138, 635]>
+establish, <id2,1,[263]>
+organized, <id2,1,[31]>
+occurs, <id2,1,[429]>
+unscrupulous, <id2,1,[619]>
+customer, <id2,10,[265, 269, 272, 279, 286, 299, 306, 311, 316, 317]>
+ratio, <id2,1,[893]>
+recall, <id2,1,[916]>
+point, <id2,1,[756]>
+autonomously, <id2,1,[743]>
+portal, <id2,1,[926]>
+facilitate, <id2,1,[122]>
+report, <id2,1,[27]>
+site, <id2,7,[54, 88, 178, 496, 633, 823, 826]>
+software, <id2,1,[202]>
+acquired, <id2,1,[284]>
+growing, <id2,1,[483]>
+faster, <id2,1,[274]>
+taxonomy, <id2,1,[936]>
+capability, <id2,2,[254, 353]>
+look, <id2,1,[606]>
+requirement, <id2,1,[287]>
+try, <id2,3,[67, 304, 819]>
+increase, <id2,1,[289]>
 querying, <id2,1,[815]>
-concern, <id2,1,[466]>
-trading, <id2,1,[535]>
-traditional, <id2,2,[361, 905]>
-costa, <id2,1,[205]>
-latent, <id2,1,[330]>
-makes, <id2,3,[19, 227, 679]>
-connection, <id2,1,[630]>
-concerning, <id2,1,[423]>
+good, <id2,1,[110]>
+feature, <id2,6,[336, 793, 863, 872, 882, 884]>
+avoided, <id2,1,[584]>
+corporation, <id2,1,[230]>
+factor, <id2,1,[709]>
+origin, <id2,1,[171]>
+document, <id2,13,[98, 678, 707, 801, 805, 806, 833, 840, 850, 857, 861, 960, 970]>
+page, <id2,7,[41, 56, 81, 108, 116, 129, 664]>
+organization, <id2,3,[29, 682, 729]>
+degrade, <id2,1,[372]>
+aliweb, <id2,1,[694]>
+graph, <id2,1,[626]>
+profile, <id2,3,[294, 439, 445]>
+accessing, <id2,1,[126]>
+topology, <id2,1,[74]>
+fight, <id2,1,[250]>
+instead, <id2,1,[460]>
+whole, <id2,1,[842]>
+back, <id2,1,[602]>
+understand, <id2,1,[162]>
+hz, <id2,1,[953]>
+release, <id2,3,[520, 527, 529]>
+enabled, <id2,1,[236]>
+understanding, <id2,1,[267]>
+pose, <id2,1,[607]>
+verification, <id2,1,[932]>
+personal, <id2,4,[404, 444, 486, 493]>
+server, <id2,2,[26, 36]>
+entropy, <id2,1,[889]>
+attractive, <id2,1,[229]>
+unstructured, <id2,3,[32, 767, 785]>
+likeliness, <id2,1,[505]>
+possible, <id2,1,[114]>
+complicated, <id2,1,[948]>
+comfort, <id2,1,[698]>
+agent, <id2,1,[719]>
+integrity, <id2,1,[934]>
+need, <id2,4,[165, 268, 273, 965]>
+preventing, <id2,1,[534]>
+orientation, <id2,2,[549, 581]>
+subset, <id2,1,[873]>
+controversial, <id2,2,[542, 562]>
+extricate, <id2,1,[24]>
